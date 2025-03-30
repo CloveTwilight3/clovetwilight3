@@ -1,4 +1,4 @@
-# Hi, I'm Clove Twilight (Also known as Mazey)! 👋 Welcome to My GitHub Profile!
+# Hi, I'm Clove Twilight! 👋 Welcome to My GitHub Profile!
 
 I'm a passionate developer with experience in various programming languages, frameworks, and tools. I enjoy exploring new technologies, building innovative projects, and contributing to open-source communities. Take a look at my work below, and feel free to connect with me or collaborate!
 
@@ -10,18 +10,14 @@ I'm a passionate developer with experience in various programming languages, fra
 
 ## 📩 Contact Me
 
-[![YouTube](https://img.shields.io/badge/MazeyMoos0022-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@mazeymoos0022)  
-[![Reddit](https://img.shields.io/badge/MazeyMoos0022-FF4500?logo=reddit&logoColor=white)](https://www.reddit.com/u/mazeymoos0022)  
-[![Instagram](https://img.shields.io/badge/mazeymoos0022-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mazeymoos0022)  
-[![Gmail](https://img.shields.io/badge/-mazeymoos0022%40gmail.com-c71610?logo=Gmail&)](mailto:mazeymoos0022@gmail.com)  
-[![ProtonMail](https://img.shields.io/badge/mazeymoos0022%40proton.me-6D4AFF?logo=protonmail&logoColor=fff)](mailto:mazeymoos0022@proton.me)  
-![Discord](https://img.shields.io/badge/mazeymoos0022-%235865F2.svg?&logo=discord&logoColor=white)
+[![ProtonMail](https://img.shields.io/badge/admin%40clovetwilight3.co.uk-6D4AFF?logo=protonmail&logoColor=fff)](mailto:admin@clovetwilight3.co.uk)  
+![Discord](https://img.shields.io/badge/CloveTwilight3-%235865F2.svg?&logo=discord&logoColor=white)
 
 ---
 
 ## 🌐 Websites
 
-- [**Personal Website**](https://www.mazeymoos.com)  
+- [**Personal Website**](https://www.clovetwilight3.co.uk)  
 - [**UnifiedGaming Systems**](https://www.unifiedgaming-systems.co.uk)
 - [**AlexTLM**](https://www.alextlm.co.uk)
 
