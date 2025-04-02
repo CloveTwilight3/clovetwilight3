@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Clove Twilight! </br>
-<img width="400" src="https://dsc-readme.tsuni.dev/api/user/1025770042245251122"></img>
+# 👋 Hi, I'm Clove Twilight!
+![My Discord](https://discord-readme-badge.vercel.app/api?id=1025770042245251122)
 
 ### 🧠 Developer • Linux Nerd • Minecraft Modder  
 If you want to credit me for my work, please link to: [https://github.clovetwilight3.co.uk](https://github.clovetwilight3.co.uk)
