@@ -17,8 +17,8 @@ If you want to credit me for my work, please link to: [https://github.clovetwili
 - 💬 Discord: `CloveTwilight3`
 
 # 🔗 Featured Projects  
-- [**UnifiedGaming Launcher**](https://github.com/UnifiedGaming-Systems/unifiedgaming-launcher)  
-- [**Minecraft Whitelist Discord Bot**](https://github.com/CloveTwilight3/Minecraft-Whitelist-Discord-Bot)  
+- [**Clove's Pluralcraft**](https://github.com/CloveTwilight3/Cloves-PluralCraft)  
+- [**Clove's JailPlugin**](https://github.com/CloveTwilight3/JailPlugin)  
 - [**EstrocordPlugin**](https://github.com/CloveTwilight3/EstrocordPlugin)
 
 # 🎵 Spotify Currently Playing  
