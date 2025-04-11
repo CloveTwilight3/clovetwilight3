@@ -5,8 +5,8 @@
 If you want to credit me for my work, please link to: [https://github.clovetwilight3.co.uk](https://github.clovetwilight3.co.uk)
 
 # 📊 GitHub Stats </br>
-[![CloveTwilight3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clovetwilight3&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clovetwilight3&layout=compact&theme=highcontrast&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![CloveTwilight3's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clovetwilight3&theme=synthwave&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clovetwilight3&layout=compact&theme=synthwave&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  
 </br>
 <img src="https://komarev.com/ghpvc/?username=clovetwilight3&label=Profile%20views&color=0e75b6&style=flat" alt="clovetwilight3" />
 </br>
