@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Clove Twilight!
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=1025770042245251122)
 
+Join the CloveTwilight3/AlexTLM Server: [discord.gg/ZPDjhfcvQe](https://discord.gg/ZPDjhfcvQe)
+
 ### 🧠 Developer • Linux Nerd • Minecraft Modder  
 If you want to credit me for my work, please link to: [https://github.clovetwilight3.co.uk](https://github.clovetwilight3.co.uk)
 
