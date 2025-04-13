@@ -3,7 +3,9 @@
 
 Join the CloveTwilight3/AlexTLM Server: [discord.gg/ZPDjhfcvQe](https://discord.gg/ZPDjhfcvQe)
 
-### 🧠 Developer • Linux Nerd • Minecraft Modder  
+### 🧠 Developer • Linux Nerd • Minecraft Modder
+I am also a plural system, so see [https://plural.clovetwilight3.co.uk](https://plural.clovetwilight3.co.uk) (In dev)
+
 If you want to credit me for my work, please link to: [https://github.clovetwilight3.co.uk](https://github.clovetwilight3.co.uk)
 
 # 📊 GitHub Stats </br>
