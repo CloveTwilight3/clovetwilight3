@@ -18,9 +18,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 
 ## ⚡ Recent GitHub Activity
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:last_update-->
-<!--RECENT_ACTIVITY:end-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## 🚀 Currently Active Projects
 
