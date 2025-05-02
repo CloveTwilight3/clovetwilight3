@@ -19,6 +19,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch all history for all branches and tags
       
       - name: Fetch GitHub activity
         run: |
@@ -144,10 +146,16 @@ jobs:
           # Run the script
           node process.js
       
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          
+          # Pull any changes that might have happened while this workflow was running
+          git pull --rebase origin main
+          
+          # Add and commit changes
           git add README.md
-          git diff --staged --quiet || git commit -m "📊 Update GitHub activity"
-          git push
+          
+          # Only commit if there are changes
+          git diff --staged --quiet || (git commit -m "📊 Update GitHub activity" && git push)
