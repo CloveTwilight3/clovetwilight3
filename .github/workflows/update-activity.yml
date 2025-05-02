@@ -4,9 +4,9 @@ on:
   schedule:
     - cron: "0 */12 * * *"  # Runs every 12 hours
   workflow_dispatch:  # Allows manual triggering
-  push:  # Run on commits to any branch
+  push:
     branches:
-      - main  # Replace with your default branch if it's different (e.g., master)
+      - main  # Or your default branch
     paths-ignore:
       - '**.md'  # Prevents infinite loop by ignoring changes to markdown files
 
@@ -19,6 +19,8 @@ jobs:
     
     steps:
       - uses: actions/checkout@v4
-      - uses: Readme-Workflows/recent-activity@v2.4.0
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          MAX_LINES: 5
