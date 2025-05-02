@@ -1,0 +1,38 @@
+settings:
+  username: "clovetwilight3"
+  commit_msg: "✨ Update README with recent GitHub activity"
+  max_lines: 7
+  readme_file: "./README.md"
+  disabled_events: []  # Keep all events enabled
+  commit_name: "GitHub Activity Bot"
+  commit_email: "41898282+github-actions[bot]@users.noreply.github.com"
+  
+  # Customize activity formats for your top 3 repos
+  repository_filter:
+    - "CloveTwilight3/RoomMates-Helper"
+    - "CloveTwilight3/plural-web"
+    - "CloveTwilight3/spotify-player"
+  priority_repositories:
+    - "CloveTwilight3/RoomMates-Helper"
+    - "CloveTwilight3/plural-web"
+    - "CloveTwilight3/spotify-player"
+  
+  date:
+    timezone: "Europe/London"  # Adjust to your timezone
+    text: "Last Updated: %DATE%"
+    format: "dddd, mmmm dS, yyyy, h:MM TT"
+
+  # Customizing how each event is displayed
+  activity_formats:
+    push: "📊 Pushed %COMMITS% commit(s) to %REPO%"
+    create_repo: "📁 Created new repository %REPO%"
+    create_branch: "🌱 Created new branch %BRANCH% in %REPO%"
+    star: "⭐ Starred %REPO%"
+    fork: "🍴 Forked %REPO%"
+    issue_comment: "💬 Commented on issue #%NUMBER% in %REPO%"
+    issue_opened: "❗️ Opened issue #%NUMBER% in %REPO%"
+    issue_closed: "✅ Closed issue #%NUMBER% in %REPO%"
+    pr_opened: "💪 Opened PR #%NUMBER% in %REPO%"
+    pr_closed: "🎉 Closed PR #%NUMBER% in %REPO%"
+    pr_merged: "🔄 Merged PR #%NUMBER% in %REPO%"
+    release: "🚀 Released version %VERSION% of %REPO%"
