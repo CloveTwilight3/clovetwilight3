@@ -2,25 +2,152 @@ name: Update GitHub Activity
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Runs every 12 hours
-  workflow_dispatch:  # Allows manual triggering
+    - cron: "0 */6 * * *"  # Run every 6 hours
+  workflow_dispatch:  # Allow manual runs
   push:
     branches:
-      - main  # Or your default branch
+      - main  # Change this to your default branch if different
     paths-ignore:
-      - '**.md'  # Prevents infinite loop by ignoring changes to markdown files
+      - 'README.md'  # Prevent triggering on README updates to avoid loops
 
 jobs:
-  update-readme:
-    name: Update README with Recent Activity
+  update-activity:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     
     steps:
-      - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          MAX_LINES: 5
+      - name: Checkout code
+        uses: actions/checkout@v4
+      
+      - name: Fetch GitHub activity
+        run: |
+          echo "Fetching activity for CloveTwilight3..."
+          # Fetch more events (30 instead of 15)
+          curl -s https://api.github.com/users/clovetwilight3/events?per_page=30 > activities.json
+      
+      - name: Process activity and update README
+        run: |
+          # Create a simple script to process the JSON and update README
+          cat > process.js << 'EOF'
+          const fs = require('fs');
+          const activities = JSON.parse(fs.readFileSync('activities.json', 'utf8'));
+          
+          // Priority repositories - only exclude the activity tracker itself
+          const priorityRepos = ['RoomMates-Helper', 'plural-web', 'spotify-player'];
+          
+          // Only ignore the activity tracker repo itself
+          const ignoreRepos = ['github-activity-tracker'];
+          
+          console.log(`Total activities fetched: ${activities.length}`);
+          
+          // Print all repos found for debugging
+          const allRepos = [...new Set(activities.map(event => event.repo.name.split('/')[1]))];
+          console.log(`All repositories found: ${allRepos.join(', ')}`);
+          
+          // Filter out ignored repositories and format activities
+          const filteredActivities = activities.filter(event => {
+            const repo = event.repo.name.split('/')[1];
+            return !ignoreRepos.includes(repo);
+          });
+          
+          console.log(`Activities after filtering: ${filteredActivities.length}`);
+          
+          const formattedActivities = filteredActivities.map(event => {
+            const repo = event.repo.name.split('/')[1];
+            const date = new Date(event.created_at).toLocaleString();
+            
+            try {
+              switch (event.type) {
+                case 'PushEvent':
+                  return `📊 Pushed ${event.payload.commits?.length || '0'} commit(s) to \`${repo}\` - ${date}`;
+                case 'IssuesEvent':
+                  return `${event.payload.action === 'opened' ? '❗️' : '✅'} ${event.payload.action} issue #${event.payload.issue.number} in \`${repo}\` - ${date}`;
+                case 'PullRequestEvent':
+                  return `${event.payload.action === 'opened' ? '💪' : '🔄'} ${event.payload.action} PR #${event.payload.pull_request.number} in \`${repo}\` - ${date}`;
+                case 'CreateEvent':
+                  return `🌱 Created ${event.payload.ref_type} \`${event.payload.ref || ''}\` in \`${repo}\` - ${date}`;
+                case 'ReleaseEvent':
+                  return `🚀 Released version ${event.payload.release.tag_name} of \`${repo}\` - ${date}`;
+                case 'WatchEvent':
+                  return `⭐ Starred \`${repo}\` - ${date}`;
+                case 'ForkEvent':
+                  return `🍴 Forked \`${repo}\` - ${date}`;
+                case 'DeleteEvent':
+                  return `🗑️ Deleted ${event.payload.ref_type} \`${event.payload.ref}\` from \`${repo}\` - ${date}`;
+                case 'PublicEvent':
+                  return `🌟 Made \`${repo}\` public - ${date}`;
+                default:
+                  return `🔧 ${event.type} in \`${repo}\` - ${date}`;
+              }
+            } catch (error) {
+              console.error(`Error processing event: ${error.message}`);
+              return `🔧 Activity in \`${repo}\` - ${date}`;
+            }
+          });
+          
+          // Sort activities to prioritize certain repositories
+          const sortedActivities = [...formattedActivities].sort((a, b) => {
+            const aIsPriority = priorityRepos.some(repo => a.includes(repo));
+            const bIsPriority = priorityRepos.some(repo => b.includes(repo));
+            
+            if (aIsPriority && !bIsPriority) return -1;
+            if (!aIsPriority && bIsPriority) return 1;
+            return 0;
+          });
+          
+          // Take the top 5 activities
+          const topActivities = sortedActivities.slice(0, 5);
+          
+          // Create the markdown
+          const timestamp = new Date().toLocaleString('en-US', { 
+            weekday: 'long', 
+            year: 'numeric', 
+            month: 'long', 
+            day: 'numeric', 
+            hour: 'numeric', 
+            minute: 'numeric'
+          });
+          
+          // Handle case where there might be no activities after filtering
+          let activityMarkdown = '';
+          
+          if (topActivities.length > 0) {
+            activityMarkdown = topActivities.map(activity => `1. ${activity}`).join('\n');
+          } else {
+            console.log("No activities found after filtering!");
+            // Include any other repo activity as a fallback
+            activityMarkdown = "_No activities found in prioritized repositories. Showing all recent activity:_\n\n" + 
+                              formattedActivities.slice(0, 5).map(activity => `1. ${activity}`).join('\n');
+              
+            // If still nothing, show the message
+            if (formattedActivities.length === 0) {
+              activityMarkdown = "_No recent activity in tracked repositories_";
+            }
+          }
+          
+          const updatedSection = `<!--ACTIVITY:START-->\n${activityMarkdown}\n\n*Last Updated: ${timestamp}*\n<!--ACTIVITY:END-->`;
+          
+          // Read README and update it
+          const readmePath = './README.md';
+          let readme = fs.readFileSync(readmePath, 'utf8');
+          
+          readme = readme.replace(
+            /<!--ACTIVITY:START-->[\s\S]*<!--ACTIVITY:END-->/,
+            updatedSection
+          );
+          
+          fs.writeFileSync(readmePath, readme, 'utf8');
+          console.log('✅ Successfully updated README with recent activities');
+          EOF
+          
+          # Run the script
+          node process.js
+      
+      - name: Commit changes
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff --staged --quiet || git commit -m "📊 Update GitHub activity"
+          git push
