@@ -45,11 +45,11 @@ jobs:
           const fs = require('fs');
           const activities = JSON.parse(fs.readFileSync('activities.json', 'utf8'));
           
-          // Priority repositories - only exclude the activity tracker itself
+          // Priority repositories
           const priorityRepos = ['RoomMates-Helper', 'plural-web', 'spotify-player'];
           
-          // Only ignore the activity tracker repo itself
-          const ignoreRepos = ['github-activity-tracker'];
+          // Repositories to ignore
+          const ignoreRepos = ['clovetwilight3'];
           
           console.log(`Total activities fetched: ${activities.length}`);
           
