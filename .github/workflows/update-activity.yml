@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 */12 * * *"  # Runs every 12 hours
   workflow_dispatch:  # Allows manual triggering
+  push:  # Run on commits to any branch
+    branches:
+      - main  # Replace with your default branch if it's different (e.g., master)
+    paths-ignore:
+      - '**.md'  # Prevents infinite loop by ignoring changes to markdown files
 
 jobs:
   update-readme:
