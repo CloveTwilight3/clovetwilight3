@@ -1,0 +1,25 @@
+name: Update GitHub Activity
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Runs every 6 hours
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  build:
+    name: Update this repo's README with recent activity
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Explicitly set write permissions
+    
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: "✨ Update README with recent GitHub activity"
+          MAX_LINES: 5
+          GH_USERNAME: clovetwilight3
+          COMMIT_NAME: "GitHub Action Bot"
+          COMMIT_EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
