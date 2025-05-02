@@ -22,6 +22,16 @@ jobs:
         with:
           fetch-depth: 0  # Fetch all history for all branches and tags
       
+      - name: Setup Git
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+      
+      - name: Fetch latest changes
+        run: |
+          # Pull any recent changes
+          git pull origin main
+      
       - name: Fetch GitHub activity
         run: |
           echo "Fetching activity for CloveTwilight3..."
@@ -148,14 +158,13 @@ jobs:
       
       - name: Commit and push changes
         run: |
-          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          
-          # Pull any changes that might have happened while this workflow was running
-          git pull --rebase origin main
-          
-          # Add and commit changes
+          # Add README changes
           git add README.md
           
           # Only commit if there are changes
-          git diff --staged --quiet || (git commit -m "📊 Update GitHub activity" && git push)
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "📊 Update GitHub activity"
+            git push
+          fi
