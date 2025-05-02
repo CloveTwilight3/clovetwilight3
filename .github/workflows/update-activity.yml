@@ -49,7 +49,7 @@ jobs:
           const priorityRepos = ['RoomMates-Helper', 'plural-web', 'spotify-player'];
           
           // Repositories to ignore
-          const ignoreRepos = ['github-activity-tracker', 'clovetwilight3'];
+          const ignoreRepos = ['github-activity-tracker', 'clovetwilight3', 'clovetwilight3.github.io'];
           
           console.log(`Total activities fetched: ${activities.length}`);
           
