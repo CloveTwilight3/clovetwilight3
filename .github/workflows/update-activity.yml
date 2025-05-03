@@ -108,8 +108,8 @@ jobs:
             return 0;
           });
           
-          // Take the top 5 activities
-          const topActivities = sortedActivities.slice(0, 5);
+          // Take the top 25 activities
+          const topActivities = sortedActivities.slice(0, 25);
           
           // Create the markdown
           const timestamp = new Date().toLocaleString('en-US', { 
