@@ -19,6 +19,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 🔧 MemberEvent in `SpectrumOS` - 5/4/2025, 5:33:11 PM
+1. ⭐ Starred `SpectrumOS` - 5/4/2025, 5:32:40 PM
 1. 📊 Pushed 1 commit(s) to `pluralkit-discord-overlay` - 5/3/2025, 2:50:06 PM
 1. 📊 Pushed 1 commit(s) to `pluralkit-discord-overlay` - 5/3/2025, 2:28:30 PM
 1. 🌟 Made `the-vixen` public - 5/3/2025, 4:22:23 AM
@@ -35,7 +37,7 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 🌱 Created branch `main` in `SpectrumOS` - 5/2/2025, 6:23:50 PM
 1. 🌱 Created repository `` in `SpectrumOS` - 5/2/2025, 6:22:51 PM
 
-*Last Updated: Sunday, May 4, 2025 at 5:31 PM*
+*Last Updated: Sunday, May 4, 2025 at 5:45 PM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
