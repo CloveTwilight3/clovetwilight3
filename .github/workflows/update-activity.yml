@@ -2,7 +2,7 @@ name: Update GitHub Activity
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Runs every 30 minutes (increased to reduce API rate limit issues)
+    - cron: '*/60 * * * *'  # Runs every 30 minutes (increased to reduce API rate limit issues)
   workflow_dispatch:  # Allow manual runs
   push:
     branches:
