@@ -19,6 +19,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `Custom-DiscordRPC` (Remove all workflows (dont work)) - 5/5/2025, 11:44:51 AM
+1. 📊 Pushed 1 commit(s) to `Custom-DiscordRPC` (Fixes to make windows work) - 5/5/2025, 11:43:12 AM
 1. 🚀 Released version v0.1.0 of `EMIS` - 5/5/2025, 1:42:43 AM
 1. 🌱 Created tag `v0.1.0` in `EMIS` - 5/5/2025, 1:35:34 AM
 1. 🚀 Released version v0.1.0 of `EMIS` - 5/5/2025, 1:35:33 AM
@@ -42,10 +44,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 📊 Pushed 1 commit(s) to `spotify-player` (Update SETUP.md) - 5/1/2025, 10:59:56 PM
 1. 📊 Pushed 1 commit(s) to `spotify-player` (Initial commit) - 5/1/2025, 10:58:22 PM
 1. 📊 Pushed 1 commit(s) to `spotify-player` (Create LICENSE) - 5/1/2025, 10:48:46 PM
-1. 🌱 Created branch `main` in `spotify-player` - 5/1/2025, 10:48:09 PM
-1. 🌱 Created repository `` in `spotify-player` - 5/1/2025, 10:45:42 PM
 
-*Last Updated: Monday, May 5, 2025 at 1:22 PM*
+*Last Updated: Monday, May 5, 2025 at 2:09 PM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
