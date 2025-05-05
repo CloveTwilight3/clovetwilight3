@@ -19,6 +19,10 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 🌱 Created tag `v0.1.0` in `EMIS` - 5/5/2025, 1:35:34 AM
+1. 🚀 Released version v0.1.0 of `EMIS` - 5/5/2025, 1:35:33 AM
+1. 📊 Pushed 1 commit(s) to `EMIS` - 5/5/2025, 1:34:58 AM
+1. 📊 Pushed 1 commit(s) to `EMIS` - 5/5/2025, 1:28:12 AM
 1. 🔧 MemberEvent in `SpectrumOS` - 5/4/2025, 5:33:11 PM
 1. ⭐ Starred `SpectrumOS` - 5/4/2025, 5:32:40 PM
 1. 📊 Pushed 1 commit(s) to `pluralkit-discord-overlay` - 5/3/2025, 2:50:06 PM
@@ -33,11 +37,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 📊 Pushed 1 commit(s) to `Custom-DiscordRPC` - 5/3/2025, 12:15:28 AM
 1. 🌱 Created branch `master` in `Custom-DiscordRPC` - 5/3/2025, 12:14:10 AM
 1. 🌱 Created repository `` in `Custom-DiscordRPC` - 5/2/2025, 11:44:19 PM
-1. 🔧 MemberEvent in `SpectrumOS` - 5/2/2025, 6:24:30 PM
-1. 🌱 Created branch `main` in `SpectrumOS` - 5/2/2025, 6:23:50 PM
-1. 🌱 Created repository `` in `SpectrumOS` - 5/2/2025, 6:22:51 PM
 
-*Last Updated: Sunday, May 4, 2025 at 11:55 PM*
+*Last Updated: Monday, May 5, 2025 at 1:40 AM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
