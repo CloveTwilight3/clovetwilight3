@@ -2,7 +2,7 @@ name: Update GitHub Activity
 
 on:
   schedule:
-    - cron: '*/10 * * * *'  # Runs every 10 minutes
+    - cron: '*/30 * * * *'  # Runs every 30 minutes (increased to reduce API rate limit issues)
   workflow_dispatch:  # Allow manual runs
   push:
     branches:
@@ -35,20 +35,20 @@ jobs:
       - name: Fetch GitHub activity
         run: |
           echo "Fetching activity for CloveTwilight3..."
-          # Fetch more events (30 instead of 15)
-          curl -s https://api.github.com/users/clovetwilight3/events?per_page=30 > activities.json
+          # Fetch more events (50 instead of 30) to ensure we have enough after filtering
+          curl -s https://api.github.com/users/clovetwilight3/events?per_page=50 > activities.json
       
       - name: Process activity and update README
         run: |
-          # Create a simple script to process the JSON and update README
+          # Create a script to process the JSON and update README
           cat > process.js << 'EOF'
           const fs = require('fs');
-          const activities = JSON.parse(fs.readFileSync('activities.json', 'utf8'));
+          let activities = JSON.parse(fs.readFileSync('activities.json', 'utf8'));
           
-          // Priority repositories
-          const priorityRepos = ['RoomMates-Helper', 'plural-web', 'spotify-player'];
+          // Priority repositories - add any new ones you want to prioritize
+          const priorityRepos = ['RoomMates-Helper', 'plural-web', 'spotify-player', 'EMIS', 'pluralkit-discord-overlay', 'Custom-DiscordRPC'];
           
-          // Repositories to ignore
+          // Repositories to ignore - you can add any repos you want to exclude
           const ignoreRepos = ['github-activity-tracker', 'clovetwilight3', 'clovetwilight3.github.io'];
           
           console.log(`Total activities fetched: ${activities.length}`);
@@ -57,7 +57,7 @@ jobs:
           const allRepos = [...new Set(activities.map(event => event.repo.name.split('/')[1]))];
           console.log(`All repositories found: ${allRepos.join(', ')}`);
           
-          // Filter out ignored repositories and format activities
+          // Filter out ignored repositories
           const filteredActivities = activities.filter(event => {
             const repo = event.repo.name.split('/')[1];
             return !ignoreRepos.includes(repo);
@@ -65,6 +65,7 @@ jobs:
           
           console.log(`Activities after filtering: ${filteredActivities.length}`);
           
+          // More detailed activity descriptions
           const formattedActivities = filteredActivities.map(event => {
             const repo = event.repo.name.split('/')[1];
             const date = new Date(event.created_at).toLocaleString();
@@ -72,11 +73,22 @@ jobs:
             try {
               switch (event.type) {
                 case 'PushEvent':
-                  return `📊 Pushed ${event.payload.commits?.length || '0'} commit(s) to \`${repo}\` - ${date}`;
+                  const commits = event.payload.commits || [];
+                  const commitMessages = commits.length > 0 
+                    ? commits.map(c => c.message.split('\n')[0]).slice(0, 2).join(', ') 
+                    : '';
+                  const shortMessage = commitMessages.length > 0 
+                    ? ` (${commitMessages}${commits.length > 2 ? '...' : ''})` 
+                    : '';
+                  return `📊 Pushed ${commits.length} commit(s) to \`${repo}\`${shortMessage} - ${date}`;
                 case 'IssuesEvent':
-                  return `${event.payload.action === 'opened' ? '❗️' : '✅'} ${event.payload.action} issue #${event.payload.issue.number} in \`${repo}\` - ${date}`;
+                  const issueTitle = event.payload.issue?.title || '';
+                  const issueAction = event.payload.action || '';
+                  return `${issueAction === 'opened' ? '❗️' : '✅'} ${issueAction} issue #${event.payload.issue.number} in \`${repo}\` (${issueTitle}) - ${date}`;
                 case 'PullRequestEvent':
-                  return `${event.payload.action === 'opened' ? '💪' : '🔄'} ${event.payload.action} PR #${event.payload.pull_request.number} in \`${repo}\` - ${date}`;
+                  const prTitle = event.payload.pull_request?.title || '';
+                  const prAction = event.payload.action || '';
+                  return `${prAction === 'opened' ? '💪' : '🔄'} ${prAction} PR #${event.payload.pull_request.number} in \`${repo}\` (${prTitle}) - ${date}`;
                 case 'CreateEvent':
                   return `🌱 Created ${event.payload.ref_type} \`${event.payload.ref || ''}\` in \`${repo}\` - ${date}`;
                 case 'ReleaseEvent':
@@ -89,6 +101,12 @@ jobs:
                   return `🗑️ Deleted ${event.payload.ref_type} \`${event.payload.ref}\` from \`${repo}\` - ${date}`;
                 case 'PublicEvent':
                   return `🌟 Made \`${repo}\` public - ${date}`;
+                case 'CommitCommentEvent':
+                  return `💬 Commented on commit in \`${repo}\` - ${date}`;
+                case 'IssueCommentEvent':
+                  return `💬 Commented on issue #${event.payload.issue.number} in \`${repo}\` - ${date}`;
+                case 'MemberEvent':
+                  return `👥 ${event.payload.action} user ${event.payload.member.login} to \`${repo}\` - ${date}`;
                 default:
                   return `🔧 ${event.type} in \`${repo}\` - ${date}`;
               }
@@ -100,8 +118,8 @@ jobs:
           
           // Sort activities to prioritize certain repositories
           const sortedActivities = [...formattedActivities].sort((a, b) => {
-            const aIsPriority = priorityRepos.some(repo => a.includes(repo));
-            const bIsPriority = priorityRepos.some(repo => b.includes(repo));
+            const aIsPriority = priorityRepos.some(repo => a.includes(`\`${repo}\``));
+            const bIsPriority = priorityRepos.some(repo => b.includes(`\`${repo}\``));
             
             if (aIsPriority && !bIsPriority) return -1;
             if (!aIsPriority && bIsPriority) return 1;
