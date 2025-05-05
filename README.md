@@ -19,26 +19,30 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 🚀 Released version v0.1.0 of `EMIS` - 5/5/2025, 1:42:43 AM
 1. 🌱 Created tag `v0.1.0` in `EMIS` - 5/5/2025, 1:35:34 AM
 1. 🚀 Released version v0.1.0 of `EMIS` - 5/5/2025, 1:35:33 AM
-1. 📊 Pushed 1 commit(s) to `EMIS` - 5/5/2025, 1:34:58 AM
-1. 📊 Pushed 1 commit(s) to `EMIS` - 5/5/2025, 1:28:12 AM
-1. 🔧 MemberEvent in `SpectrumOS` - 5/4/2025, 5:33:11 PM
-1. ⭐ Starred `SpectrumOS` - 5/4/2025, 5:32:40 PM
-1. 📊 Pushed 1 commit(s) to `pluralkit-discord-overlay` - 5/3/2025, 2:50:06 PM
-1. 📊 Pushed 1 commit(s) to `pluralkit-discord-overlay` - 5/3/2025, 2:28:30 PM
-1. 🌟 Made `the-vixen` public - 5/3/2025, 4:22:23 AM
+1. 📊 Pushed 1 commit(s) to `EMIS` (EMIS Update to v 0.1.0) - 5/5/2025, 1:34:58 AM
+1. 📊 Pushed 1 commit(s) to `EMIS` (EMIS Update to v 0.1.0) - 5/5/2025, 1:28:12 AM
+1. 📊 Pushed 1 commit(s) to `pluralkit-discord-overlay` (Make stable) - 5/3/2025, 2:50:06 PM
+1. 📊 Pushed 1 commit(s) to `pluralkit-discord-overlay` (further files) - 5/3/2025, 2:28:30 PM
 1. ⭐ Starred `Custom-DiscordRPC` - 5/3/2025, 3:23:39 AM
 1. ⭐ Starred `pluralkit-discord-overlay` - 5/3/2025, 3:21:46 AM
-1. 📊 Pushed 1 commit(s) to `pluralkit-discord-overlay` - 5/3/2025, 3:03:41 AM
-1. 📊 Pushed 1 commit(s) to `pluralkit-discord-overlay` - 5/3/2025, 2:43:57 AM
+1. 📊 Pushed 1 commit(s) to `pluralkit-discord-overlay` (Add more changes) - 5/3/2025, 3:03:41 AM
+1. 📊 Pushed 1 commit(s) to `pluralkit-discord-overlay` (Add initial files) - 5/3/2025, 2:43:57 AM
 1. 🌱 Created branch `main` in `pluralkit-discord-overlay` - 5/3/2025, 1:48:13 AM
 1. 🌱 Created repository `` in `pluralkit-discord-overlay` - 5/3/2025, 1:47:13 AM
-1. 📊 Pushed 1 commit(s) to `Custom-DiscordRPC` - 5/3/2025, 12:15:28 AM
+1. 📊 Pushed 1 commit(s) to `Custom-DiscordRPC` (Initial Commit) - 5/3/2025, 12:15:28 AM
 1. 🌱 Created branch `master` in `Custom-DiscordRPC` - 5/3/2025, 12:14:10 AM
 1. 🌱 Created repository `` in `Custom-DiscordRPC` - 5/2/2025, 11:44:19 PM
+1. 👥 added user auserthatlovespapermc to `SpectrumOS` - 5/4/2025, 5:33:11 PM
+1. ⭐ Starred `SpectrumOS` - 5/4/2025, 5:32:40 PM
+1. 🌟 Made `the-vixen` public - 5/3/2025, 4:22:23 AM
+1. 👥 added user CloveTwilight3 to `SpectrumOS` - 5/2/2025, 6:24:30 PM
+1. 🌱 Created branch `main` in `SpectrumOS` - 5/2/2025, 6:23:50 PM
+1. 🌱 Created repository `` in `SpectrumOS` - 5/2/2025, 6:22:51 PM
 
-*Last Updated: Monday, May 5, 2025 at 1:40 AM*
+*Last Updated: Monday, May 5, 2025 at 1:51 AM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
