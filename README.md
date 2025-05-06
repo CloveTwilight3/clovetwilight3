@@ -19,6 +19,9 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `EMIS` (add missing file) - 5/5/2025, 10:25:50 PM
+1. 📊 Pushed 1 commit(s) to `EMIS` (Add interface) - 5/5/2025, 10:25:00 PM
+1. 📊 Pushed 1 commit(s) to `EMIS` (Update README.md) - 5/5/2025, 10:20:58 PM
 1. ❗️ opened issue #1 in `EMIS` ([KNOWN ISSUE]: No Voice Activation) - 5/5/2025, 3:20:26 PM
 1. 📊 Pushed 1 commit(s) to `Custom-DiscordRPC` (Update for many files) - 5/5/2025, 1:32:50 PM
 1. 📊 Pushed 1 commit(s) to `Custom-DiscordRPC` (Remove all workflows (dont work)) - 5/5/2025, 11:44:51 AM
@@ -41,11 +44,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 🌱 Created repository `` in `Custom-DiscordRPC` - 5/2/2025, 11:44:19 PM
 1. 📊 Pushed 1 commit(s) to `EMIS` (Update package-lock.json) - 5/2/2025, 2:47:21 AM
 1. 📊 Pushed 1 commit(s) to `EMIS` (TTS service) - 5/2/2025, 2:47:13 AM
-1. ⭐ Starred `spotify-player` - 5/2/2025, 2:11:38 AM
-1. 📊 Pushed 1 commit(s) to `spotify-player` (Update get-refresh-token.js) - 5/1/2025, 11:16:14 PM
-1. 📊 Pushed 1 commit(s) to `spotify-player` (Update SETUP.md) - 5/1/2025, 10:59:56 PM
 
-*Last Updated: Tuesday, May 6, 2025 at 2:25 AM*
+*Last Updated: Tuesday, May 6, 2025 at 3:33 AM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
