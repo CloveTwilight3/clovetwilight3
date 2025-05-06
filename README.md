@@ -19,6 +19,9 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `EMIS` (Updates to not lose data) - 5/6/2025, 2:34:53 PM
+1. 📊 Pushed 1 commit(s) to `EMIS` (Updates to not lose data) - 5/6/2025, 2:34:45 PM
+1. 📊 Pushed 1 commit(s) to `EMIS` (Updates to test mic) - 5/6/2025, 2:24:09 PM
 1. 📊 Pushed 1 commit(s) to `EMIS` (Update to enable voice intergration) - 5/6/2025, 1:52:06 PM
 1. 💬 Commented on issue #1 in `EMIS` - 5/6/2025, 8:55:09 AM
 1. 📊 Pushed 1 commit(s) to `EMIS` (add missing file) - 5/5/2025, 10:25:50 PM
@@ -41,11 +44,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 📊 Pushed 1 commit(s) to `pluralkit-discord-overlay` (Add initial files) - 5/3/2025, 2:43:57 AM
 1. 🌱 Created branch `main` in `pluralkit-discord-overlay` - 5/3/2025, 1:48:13 AM
 1. 🌱 Created repository `` in `pluralkit-discord-overlay` - 5/3/2025, 1:47:13 AM
-1. 📊 Pushed 1 commit(s) to `Custom-DiscordRPC` (Initial Commit) - 5/3/2025, 12:15:28 AM
-1. 🌱 Created branch `master` in `Custom-DiscordRPC` - 5/3/2025, 12:14:10 AM
-1. 🌱 Created repository `` in `Custom-DiscordRPC` - 5/2/2025, 11:44:19 PM
 
-*Last Updated: Tuesday, May 6, 2025 at 10:08 PM*
+*Last Updated: Tuesday, May 6, 2025 at 11:08 PM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
