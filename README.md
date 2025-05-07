@@ -4,6 +4,8 @@
   
   ![My Discord](https://discord-readme-badge.vercel.app/api?id=1025770042245251122)
   
+  <a href="https://en.pronouns.page/@clovetwilight3"><img src="https://img.shields.io/badge/Pronouns-they%2Fthem-ff69b4?style=flat-square" alt="Pronouns: they/them"/></a>
+  
   <a href="https://discord.gg/ZPDjhfcvQe">Join my Discord Server</a>
 </div>
 
@@ -15,6 +17,7 @@ I create helpful software solutions with a focus on inclusivity and user experie
 - 🌈 Plural system building tools for other systems ([friends.clovetwilight3.co.uk](https://friends.clovetwilight3.co.uk/))
 - 🐧 Linux enthusiast who enjoys customizing and optimizing systems
 - 🎵 Music lover with a passion for creating useful widgets and tools
+- 🔗 Check out my [portfolio](https://clovetwilight3.co.uk/) and [system website](https://friends.clovetwilight3.co.uk/)
 
 ## ⚡ Recent GitHub Activity
 
@@ -114,6 +117,20 @@ I create helpful software solutions with a focus on inclusivity and user experie
 
 <div align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=x060f5w4ftwv8zc8fi9662t70&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Currently Playing" />
+</div>
+
+## 🌐 My Online Presence
+
+<div align="center">
+  <a href="https://en.pronouns.page/@clovetwilight3">
+    <img src="https://img.shields.io/badge/Pronouns.page-ff69b4?style=for-the-badge&logo=pagekit&logoColor=white" alt="Pronouns Page" />
+  </a>
+  <a href="https://clovetwilight3.co.uk">
+    <img src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Website" />
+  </a>
+  <a href="https://friends.clovetwilight3.co.uk">
+    <img src="https://img.shields.io/badge/System_Website-6441A4?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="System Website" />
+  </a>
 </div>
 
 ## 📫 Connect With Me
