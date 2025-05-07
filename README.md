@@ -4,7 +4,7 @@
   
   ![My Discord](https://discord-readme-badge.vercel.app/api?id=1025770042245251122)
   
-  <a href="https://en.pronouns.page/@clovetwilight3"><img src="https://img.shields.io/badge/Pronouns-they%2Fthem-ff69b4?style=flat-square" alt="Pronouns: they/them"/></a>
+  <a href="https://en.pronouns.page/@clovetwilight3"><img src="https://img.shields.io/badge/Pronouns-she%2Fher%2Ffae%2Ffaer-ff69b4?style=flat-square" alt="Pronouns: they/them"/></a>
   
   <a href="https://discord.gg/ZPDjhfcvQe">Join my Discord Server</a>
 </div>
