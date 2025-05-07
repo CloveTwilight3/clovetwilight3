@@ -4,7 +4,7 @@
   
   ![My Discord](https://discord-readme-badge.vercel.app/api?id=1025770042245251122)
   
-  <a href="https://en.pronouns.page/@clovetwilight3"><img src="https://img.shields.io/badge/Pronouns-she%2Fher%2Ffae%2Ffaer-ff69b4?style=flat-square" alt="Pronouns: they/them"/></a>
+  <a href="https://en.pronouns.page/@clovetwilight3"><img src="https://img.shields.io/badge/Pronouns-She%2FHer%2FFae%2FFaer-ff69b4?style=flat-square" alt="Pronouns: She/Her/Fae/Faer"/></a>
   
   <a href="https://discord.gg/ZPDjhfcvQe">Join my Discord Server</a>
 </div>
@@ -123,7 +123,7 @@ I create helpful software solutions with a focus on inclusivity and user experie
 
 <div align="center">
   <a href="https://en.pronouns.page/@clovetwilight3">
-    <img src="https://img.shields.io/badge/Pronouns.page-ff69b4?style=for-the-badge&logo=pagekit&logoColor=white" alt="Pronouns Page" />
+    <img src="https://img.shields.io/badge/📝 Click to read my Pronouns Page-ff69b4?style=for-the-badge&logoColor=white" alt="Click to read my Pronouns Page" />
   </a>
   <a href="https://clovetwilight3.co.uk">
     <img src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Website" />
