@@ -123,13 +123,13 @@ I create helpful software solutions with a focus on inclusivity and user experie
 
 <div align="center">
   <a href="https://en.pronouns.page/@clovetwilight3">
-    <img src="https://img.shields.io/badge/📝 Click to read my Pronouns Page-ff69b4?style=for-the-badge&logoColor=white" alt="Click to read my Pronouns Page" />
+    <img src="https://img.shields.io/badge/Pronouns_Page_(She/Her/Fae/Faer)-ff69b4?style=for-the-badge&logo=pagekit&logoColor=white" alt="Pronouns Page: She/Her/Fae/Faer" />
   </a>
   <a href="https://clovetwilight3.co.uk">
-    <img src="https://img.shields.io/badge/Portfolio-9146FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Website" />
+    <img src="https://img.shields.io/badge/Portfolio_Website-9146FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Website" />
   </a>
   <a href="https://friends.clovetwilight3.co.uk">
-    <img src="https://img.shields.io/badge/System_Website-6441A4?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="System Website" />
+    <img src="https://img.shields.io/badge/Plural_System_Website-6441A4?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Plural System Website" />
   </a>
 </div>
 
