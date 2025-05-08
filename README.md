@@ -22,6 +22,10 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `plural-web` (Update badge) - 5/8/2025, 12:24:12 AM
+1. 📊 Pushed 1 commit(s) to `plural-web` (Dockerize (attempt 2)) - 5/8/2025, 12:19:37 AM
+1. 📊 Pushed 1 commit(s) to `plural-web` (Dockerize (attempt 2)) - 5/8/2025, 12:13:13 AM
+1. 📊 Pushed 1 commit(s) to `Custom-DiscordRPC` (Update README.md) - 5/7/2025, 11:52:17 PM
 1. 📊 Pushed 1 commit(s) to `pluralkit-discord-overlay` (Create LICENSE) - 5/7/2025, 11:40:38 PM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Update link to use alextlm.co.uk as clovetwilight3.co.uk is now github pages) - 5/7/2025, 1:07:29 PM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Updates adding a host badge) - 5/7/2025, 12:54:29 PM
@@ -43,12 +47,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 📊 Pushed 1 commit(s) to `Custom-DiscordRPC` (Update for many files) - 5/5/2025, 1:32:50 PM
 1. 📊 Pushed 1 commit(s) to `Custom-DiscordRPC` (Remove all workflows (dont work)) - 5/5/2025, 11:44:51 AM
 1. 📊 Pushed 1 commit(s) to `Custom-DiscordRPC` (Fixes to make windows work) - 5/5/2025, 11:43:12 AM
-1. 🚀 Released version v0.1.0 of `EMIS` - 5/5/2025, 1:42:43 AM
-1. 🌱 Created tag `v0.1.0` in `EMIS` - 5/5/2025, 1:35:34 AM
-1. 🚀 Released version v0.1.0 of `EMIS` - 5/5/2025, 1:35:33 AM
-1. 📊 Pushed 1 commit(s) to `EMIS` (EMIS Update to v 0.1.0) - 5/5/2025, 1:34:58 AM
 
-*Last Updated: Thursday, May 8, 2025 at 3:10 PM*
+*Last Updated: Thursday, May 8, 2025 at 4:12 PM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
