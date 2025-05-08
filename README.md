@@ -22,6 +22,7 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `pluralkit-discord-overlay` (Create LICENSE) - 5/7/2025, 11:40:38 PM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Update link to use alextlm.co.uk as clovetwilight3.co.uk is now github pages) - 5/7/2025, 1:07:29 PM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Updates adding a host badge) - 5/7/2025, 12:54:29 PM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Delete .env) - 5/7/2025, 12:50:39 PM
@@ -46,9 +47,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 🌱 Created tag `v0.1.0` in `EMIS` - 5/5/2025, 1:35:34 AM
 1. 🚀 Released version v0.1.0 of `EMIS` - 5/5/2025, 1:35:33 AM
 1. 📊 Pushed 1 commit(s) to `EMIS` (EMIS Update to v 0.1.0) - 5/5/2025, 1:34:58 AM
-1. 📊 Pushed 1 commit(s) to `EMIS` (EMIS Update to v 0.1.0) - 5/5/2025, 1:28:12 AM
 
-*Last Updated: Thursday, May 8, 2025 at 2:09 PM*
+*Last Updated: Thursday, May 8, 2025 at 3:10 PM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
