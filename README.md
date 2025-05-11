@@ -22,6 +22,11 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `plural-web` (Fixes??) - 5/11/2025, 2:08:14 AM
+1. 📊 Pushed 1 commit(s) to `plural-web` (Fix WebSocket status indicator positioning) - 5/11/2025, 12:07:06 AM
+1. 📊 Pushed 1 commit(s) to `plural-web` (Fix WebSocket status indicator positioning) - 5/11/2025, 12:04:48 AM
+1. 📊 Pushed 1 commit(s) to `plural-web` (Minor Changes) - 5/10/2025, 11:32:06 PM
+1. 📊 Pushed 1 commit(s) to `plural-web` (Fixes for real time data) - 5/10/2025, 11:23:15 PM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Update to add mental state) - 5/10/2025, 11:04:54 PM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Edit layouts) - 5/10/2025, 10:40:44 PM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Update badge) - 5/8/2025, 12:24:12 AM
@@ -42,13 +47,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 📊 Pushed 1 commit(s) to `EMIS` (Updates to test mic) - 5/6/2025, 2:24:09 PM
 1. 📊 Pushed 1 commit(s) to `EMIS` (Update to enable voice intergration) - 5/6/2025, 1:52:06 PM
 1. 💬 Commented on issue #1 in `EMIS` - 5/6/2025, 8:55:09 AM
-1. 📊 Pushed 1 commit(s) to `EMIS` (add missing file) - 5/5/2025, 10:25:50 PM
-1. 📊 Pushed 1 commit(s) to `EMIS` (Add interface) - 5/5/2025, 10:25:00 PM
-1. 📊 Pushed 1 commit(s) to `EMIS` (Update README.md) - 5/5/2025, 10:20:58 PM
-1. ❗️ opened issue #1 in `EMIS` ([KNOWN ISSUE]: No Voice Activation) - 5/5/2025, 3:20:26 PM
-1. 📊 Pushed 1 commit(s) to `Custom-DiscordRPC` (Update for many files) - 5/5/2025, 1:32:50 PM
 
-*Last Updated: Sunday, May 11, 2025 at 12:51 AM*
+*Last Updated: Sunday, May 11, 2025 at 2:39 AM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
