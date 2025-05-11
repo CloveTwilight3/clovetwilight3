@@ -22,6 +22,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `plural-web` (Update to add mental state) - 5/10/2025, 11:04:54 PM
+1. 📊 Pushed 1 commit(s) to `plural-web` (Edit layouts) - 5/10/2025, 10:40:44 PM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Update badge) - 5/8/2025, 12:24:12 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Dockerize (attempt 2)) - 5/8/2025, 12:19:37 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Dockerize (attempt 2)) - 5/8/2025, 12:13:13 AM
@@ -45,10 +47,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 📊 Pushed 1 commit(s) to `EMIS` (Update README.md) - 5/5/2025, 10:20:58 PM
 1. ❗️ opened issue #1 in `EMIS` ([KNOWN ISSUE]: No Voice Activation) - 5/5/2025, 3:20:26 PM
 1. 📊 Pushed 1 commit(s) to `Custom-DiscordRPC` (Update for many files) - 5/5/2025, 1:32:50 PM
-1. 📊 Pushed 1 commit(s) to `Custom-DiscordRPC` (Remove all workflows (dont work)) - 5/5/2025, 11:44:51 AM
-1. 📊 Pushed 1 commit(s) to `Custom-DiscordRPC` (Fixes to make windows work) - 5/5/2025, 11:43:12 AM
 
-*Last Updated: Saturday, May 10, 2025 at 11:08 PM*
+*Last Updated: Sunday, May 11, 2025 at 12:51 AM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
