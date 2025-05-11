@@ -22,6 +22,10 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `plural-web` (Blue link underlines removed) - 5/11/2025, 1:08:35 PM
+1. 📊 Pushed 1 commit(s) to `plural-web` (standardized all the font and button sizes across the applicatio) - 5/11/2025, 1:02:54 PM
+1. 📊 Pushed 1 commit(s) to `plural-web` (hmmm) - 5/11/2025, 12:56:38 PM
+1. 📊 Pushed 1 commit(s) to `plural-web` (Css Fixes) - 5/11/2025, 12:54:06 PM
 1. 📊 Pushed 1 commit(s) to `plural-web` (hopeful fixes) - 5/11/2025, 3:26:11 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Hmm) - 5/11/2025, 3:02:06 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (try again) - 5/11/2025, 2:57:09 AM
@@ -43,12 +47,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 📊 Pushed 1 commit(s) to `plural-web` (Updates adding a host badge) - 5/7/2025, 12:54:29 PM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Delete .env) - 5/7/2025, 12:50:39 PM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Create .gitignore) - 5/7/2025, 12:49:42 PM
-1. 💬 Commented on issue #1 in `EMIS` - 5/7/2025, 1:53:51 AM
-1. 📊 Pushed 1 commit(s) to `EMIS` (Update to keep data) - 5/7/2025, 1:28:59 AM
-1. 📊 Pushed 1 commit(s) to `EMIS` (Update to keep data) - 5/7/2025, 12:20:59 AM
-1. 📊 Pushed 1 commit(s) to `EMIS` (updates to not lose data) - 5/6/2025, 7:58:12 PM
 
-*Last Updated: Sunday, May 11, 2025 at 12:15 PM*
+*Last Updated: Sunday, May 11, 2025 at 1:17 PM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
