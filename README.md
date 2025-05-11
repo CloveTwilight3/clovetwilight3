@@ -22,6 +22,7 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `plural-web` (Update ignore file) - 5/11/2025, 4:35:27 PM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Clean up removing of light mode (not dark)) - 5/11/2025, 1:46:48 PM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Remove dark mode) - 5/11/2025, 1:19:58 PM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Blue link underlines removed) - 5/11/2025, 1:08:35 PM
@@ -46,9 +47,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 📊 Pushed 1 commit(s) to `Custom-DiscordRPC` (Update README.md) - 5/7/2025, 11:52:17 PM
 1. 📊 Pushed 1 commit(s) to `pluralkit-discord-overlay` (Create LICENSE) - 5/7/2025, 11:40:38 PM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Update link to use alextlm.co.uk as clovetwilight3.co.uk is now github pages) - 5/7/2025, 1:07:29 PM
-1. 📊 Pushed 1 commit(s) to `plural-web` (Updates adding a host badge) - 5/7/2025, 12:54:29 PM
 
-*Last Updated: Sunday, May 11, 2025 at 4:09 PM*
+*Last Updated: Sunday, May 11, 2025 at 5:07 PM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
