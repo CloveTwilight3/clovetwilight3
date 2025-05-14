@@ -22,6 +22,7 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `plural-web` (Add basic AdSense scripts) - 5/14/2025, 7:41:08 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Testing locally now) - 5/14/2025, 3:18:53 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Test for Christmas) - 5/14/2025, 3:17:37 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Test for Halloween) - 5/14/2025, 3:14:13 AM
@@ -46,9 +47,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 📊 Pushed 1 commit(s) to `plural-web` (Clean up removing of light mode (not dark)) - 5/11/2025, 1:46:48 PM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Remove dark mode) - 5/11/2025, 1:19:58 PM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Blue link underlines removed) - 5/11/2025, 1:08:35 PM
-1. 📊 Pushed 1 commit(s) to `plural-web` (standardized all the font and button sizes across the applicatio) - 5/11/2025, 1:02:54 PM
 
-*Last Updated: Wednesday, May 14, 2025 at 12:17 PM*
+*Last Updated: Wednesday, May 14, 2025 at 1:23 PM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
