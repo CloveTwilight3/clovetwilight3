@@ -22,6 +22,12 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `plural-web` (Fix birthdays) - 5/14/2025, 2:17:32 AM
+1. 📊 Pushed 1 commit(s) to `plural-web` (Add Sage's BDAY and also update URL) - 5/14/2025, 2:13:54 AM
+1. 📊 Pushed 1 commit(s) to `plural-web` (Add more stuff) - 5/14/2025, 2:06:18 AM
+1. 📊 Pushed 1 commit(s) to `plural-web` (Update frontend/src/styles.css) - 5/14/2025, 2:03:07 AM
+1. 📊 Pushed 2 commit(s) to `plural-web` (Add more hooks, Add frontend/src/data/specialDates.js) - 5/14/2025, 2:01:37 AM
+1. 📊 Pushed 2 commit(s) to `plural-web` (Add easter eggs, Add easter eggs) - 5/14/2025, 1:52:26 AM
 1. 🌱 Created branch `main` in `pluralkit-discord-overlay` - 5/13/2025, 11:16:35 PM
 1. 🌱 Created repository `` in `pluralkit-discord-overlay` - 5/13/2025, 11:16:12 PM
 1. 🌱 Created branch `main` in `plural-web` - 5/13/2025, 11:15:08 PM
@@ -41,14 +47,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 📊 Pushed 1 commit(s) to `plural-web` (hopeful fixes) - 5/11/2025, 3:26:11 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Hmm) - 5/11/2025, 3:02:06 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (try again) - 5/11/2025, 2:57:09 AM
-1. 📊 Pushed 1 commit(s) to `plural-web` (EW WTF UNDO!) - 5/11/2025, 2:55:44 AM
-1. 📊 Pushed 1 commit(s) to `plural-web` (Asthetic Changes) - 5/11/2025, 2:54:40 AM
-1. 📊 Pushed 1 commit(s) to `plural-web` (Fixes??) - 5/11/2025, 2:08:14 AM
-1. 📊 Pushed 1 commit(s) to `plural-web` (Fix WebSocket status indicator positioning) - 5/11/2025, 12:07:06 AM
-1. 📊 Pushed 1 commit(s) to `plural-web` (Fix WebSocket status indicator positioning) - 5/11/2025, 12:04:48 AM
-1. 📊 Pushed 1 commit(s) to `plural-web` (Minor Changes) - 5/10/2025, 11:32:06 PM
 
-*Last Updated: Wednesday, May 14, 2025 at 8:13 AM*
+*Last Updated: Wednesday, May 14, 2025 at 9:10 AM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
