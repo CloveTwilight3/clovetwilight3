@@ -22,6 +22,7 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (Add ToS and Priv Policy) - 5/15/2025, 3:26:54 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Add more cookies etc) - 5/14/2025, 11:42:14 PM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Add more cookies etc) - 5/14/2025, 11:22:02 PM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Add more cookies etc) - 5/14/2025, 11:14:37 PM
@@ -46,9 +47,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 🌱 Created branch `main` in `pluralkit-discord-overlay` - 5/13/2025, 11:16:35 PM
 1. 🌱 Created repository `` in `pluralkit-discord-overlay` - 5/13/2025, 11:16:12 PM
 1. 🌱 Created branch `main` in `plural-web` - 5/13/2025, 11:15:08 PM
-1. 🌱 Created branch `master` in `Custom-DiscordRPC` - 5/13/2025, 11:13:43 PM
 
-*Last Updated: Thursday, May 15, 2025 at 11:08 AM*
+*Last Updated: Thursday, May 15, 2025 at 12:18 PM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
