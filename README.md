@@ -22,6 +22,10 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `plural-web` (UI Changed) - 5/16/2025, 7:15:42 AM
+1. 📊 Pushed 1 commit(s) to `plural-web` (UI Changed) - 5/16/2025, 7:02:41 AM
+1. 📊 Pushed 1 commit(s) to `plural-web` (UI Changed) - 5/16/2025, 6:57:54 AM
+1. 📊 Pushed 1 commit(s) to `plural-web` (Make seamless) - 5/16/2025, 6:22:23 AM
 1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (Add ToS and Priv Policy) - 5/15/2025, 3:26:54 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Add more cookies etc) - 5/14/2025, 11:42:14 PM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Add more cookies etc) - 5/14/2025, 11:22:02 PM
@@ -43,12 +47,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 📊 Pushed 1 commit(s) to `plural-web` (Add more stuff) - 5/14/2025, 2:06:18 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Update frontend/src/styles.css) - 5/14/2025, 2:03:07 AM
 1. 📊 Pushed 2 commit(s) to `plural-web` (Add more hooks, Add frontend/src/data/specialDates.js) - 5/14/2025, 2:01:37 AM
-1. 📊 Pushed 2 commit(s) to `plural-web` (Add easter eggs, Add easter eggs) - 5/14/2025, 1:52:26 AM
-1. 🌱 Created branch `main` in `pluralkit-discord-overlay` - 5/13/2025, 11:16:35 PM
-1. 🌱 Created repository `` in `pluralkit-discord-overlay` - 5/13/2025, 11:16:12 PM
-1. 🌱 Created branch `main` in `plural-web` - 5/13/2025, 11:15:08 PM
 
-*Last Updated: Friday, May 16, 2025 at 5:07 PM*
+*Last Updated: Friday, May 16, 2025 at 6:13 PM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
