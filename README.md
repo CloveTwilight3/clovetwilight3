@@ -3,6 +3,7 @@
   <p><b>Developer • Linux Enthusiast • Minecraft Modder</b></p>
   
   ![My Discord](https://discord-readme-badge.vercel.app/api?id=1025770042245251122)
+  ![Discord](https://discord-readme-badge.vercel.app/api?id=1209539928866816143)
   
   <a href="https://en.pronouns.page/@clovetwilight3"><img src="https://img.shields.io/badge/Pronouns-She%2FHer%2FFae%2FFaer-ff69b4?style=flat-square" alt="Pronouns: She/Her/Fae/Faer"/></a>
   
