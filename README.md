@@ -23,6 +23,9 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `plural-web` (Add More Cofronts) - 5/19/2025, 8:17:03 AM
+1. 📊 Pushed 1 commit(s) to `plural-web` (Add More Cofronts) - 5/19/2025, 8:14:18 AM
+1. 📊 Pushed 1 commit(s) to `plural-web` (Update location of mental health banner) - 5/19/2025, 8:08:36 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (UI Changed) - 5/16/2025, 7:28:37 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (UI Changed) - 5/16/2025, 7:24:42 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (UI Changed) - 5/16/2025, 7:15:42 AM
@@ -45,11 +48,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 📊 Pushed 1 commit(s) to `plural-web` (Test for Halloween) - 5/14/2025, 3:14:13 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Fixes) - 5/14/2025, 2:44:05 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Fixes) - 5/14/2025, 2:34:26 AM
-1. 📊 Pushed 1 commit(s) to `plural-web` (Fix birthdays) - 5/14/2025, 2:17:32 AM
-1. 📊 Pushed 1 commit(s) to `plural-web` (Add Sage's BDAY and also update URL) - 5/14/2025, 2:13:54 AM
-1. 📊 Pushed 1 commit(s) to `plural-web` (Add more stuff) - 5/14/2025, 2:06:18 AM
 
-*Last Updated: Monday, May 19, 2025 at 8:15 AM*
+*Last Updated: Monday, May 19, 2025 at 9:11 AM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
