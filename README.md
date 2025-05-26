@@ -23,6 +23,14 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `plural-web` (Update Source Code URL) - 5/26/2025, 8:09:56 AM
+1. 📊 Pushed 1 commit(s) to `plural-web` (Add CyCloDeadJettGek and CyCloDeadJett) - 5/26/2025, 8:03:19 AM
+1. 📊 Pushed 1 commit(s) to `plural-web` (Add CloDeadJett) - 5/26/2025, 7:47:30 AM
+1. 📊 Pushed 1 commit(s) to `plural-web` (Add GekClove) - 5/26/2025, 7:45:30 AM
+1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (Fix infractions file) - 5/26/2025, 6:30:52 AM
+1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (Add echo command (admin)) - 5/26/2025, 6:25:52 AM
+1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (Add echo command (admin)) - 5/26/2025, 6:22:11 AM
+1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (Add echo command (admin)) - 5/26/2025, 6:18:33 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Add more profile images for cofronts) - 5/26/2025, 4:21:35 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Add more profile images for cofronts) - 5/26/2025, 3:11:00 AM
 1. 📊 Pushed 2 commit(s) to `RoomMates-Helper` (Add nsfw access toggle, Add nsfw access toggle) - 5/25/2025, 7:44:21 PM
@@ -34,14 +42,6 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 📊 Pushed 1 commit(s) to `plural-web` (UI Changed) - 5/16/2025, 7:15:42 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (UI Changed) - 5/16/2025, 7:02:41 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (UI Changed) - 5/16/2025, 6:57:54 AM
-1. 📊 Pushed 1 commit(s) to `plural-web` (Make seamless) - 5/16/2025, 6:22:23 AM
-1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (Add ToS and Priv Policy) - 5/15/2025, 3:26:54 AM
-1. 📊 Pushed 1 commit(s) to `plural-web` (Add more cookies etc) - 5/14/2025, 11:42:14 PM
-1. 📊 Pushed 1 commit(s) to `plural-web` (Add more cookies etc) - 5/14/2025, 11:22:02 PM
-1. 📊 Pushed 1 commit(s) to `plural-web` (Add more cookies etc) - 5/14/2025, 11:14:37 PM
-1. 📊 Pushed 1 commit(s) to `plural-web` (Add more cookies etc) - 5/14/2025, 11:12:11 PM
-1. 📊 Pushed 1 commit(s) to `plural-web` (Add more cookies etc) - 5/14/2025, 11:03:37 PM
-1. 📊 Pushed 1 commit(s) to `plural-web` (Add more cookies etc) - 5/14/2025, 10:56:54 PM
 1. 📊 Pushed 1 commit(s) to `simple-discord-ban-bot` (Add embeds) - 5/26/2025, 12:12:02 AM
 1. 📊 Pushed 1 commit(s) to `CloveTwilight3-Files` (Create Privacy Policy.md) - 5/25/2025, 6:46:26 PM
 1. 📊 Pushed 1 commit(s) to `CloveTwilight3-Files` (Create ToS.md) - 5/25/2025, 6:46:01 PM
@@ -49,7 +49,7 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 📊 Pushed 1 commit(s) to `simple-discord-ban-bot` (Create ToS.md) - 5/24/2025, 10:15:53 PM
 1. 📊 Pushed 1 commit(s) to `simple-discord-ban-bot` (Update Dockerfile) - 5/24/2025, 10:02:13 PM
 
-*Last Updated: Monday, May 26, 2025 at 6:15 AM*
+*Last Updated: Monday, May 26, 2025 at 8:19 AM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
