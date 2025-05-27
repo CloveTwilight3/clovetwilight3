@@ -23,6 +23,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (Fix malformed code) - 5/27/2025, 2:58:38 AM
+1. 📊 Pushed 13 commit(s) to `RoomMates-Helper` (Update bot.ts, Add discord-logger.ts...) - 5/27/2025, 2:48:19 AM
 1. ⭐ Starred `plural-web` - 5/27/2025, 12:35:39 AM
 1. ⭐ Starred `pluralkit-discord-overlay` - 5/27/2025, 12:35:30 AM
 1. ⭐ Starred `Custom-DiscordRPC` - 5/27/2025, 12:35:29 AM
@@ -46,10 +48,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. ⭐ Starred `-socialminecraft-discord-manager` - 5/27/2025, 12:35:31 AM
 1. 📊 Pushed 1 commit(s) to `simple-discord-ban-bot` (Add embeds) - 5/26/2025, 12:12:02 AM
 1. 📊 Pushed 1 commit(s) to `CloveTwilight3-Files` (Create Privacy Policy.md) - 5/25/2025, 6:46:26 PM
-1. 📊 Pushed 1 commit(s) to `CloveTwilight3-Files` (Create ToS.md) - 5/25/2025, 6:46:01 PM
-1. 📊 Pushed 1 commit(s) to `simple-discord-ban-bot` (Create Privacy Policy.md) - 5/24/2025, 10:19:17 PM
 
-*Last Updated: Tuesday, May 27, 2025 at 2:27 AM*
+*Last Updated: Tuesday, May 27, 2025 at 3:36 AM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
