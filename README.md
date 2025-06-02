@@ -23,6 +23,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `plural-web` (feat: implement sub-system member filtering with tag management) - 6/2/2025, 12:33:46 AM
+1. 📊 Pushed 1 commit(s) to `plural-web` (Fix jettdead) - 6/2/2025, 12:06:36 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (chore: Fix jettomdead) - 5/30/2025, 5:59:40 AM
 1. 📊 Pushed 4 commit(s) to `plural-web` (Add backend/.env.example, Update frontend/vite.config.js...) - 5/30/2025, 5:48:32 AM
 1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (Fix malformed code) - 5/27/2025, 2:58:38 AM
@@ -46,10 +48,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 📊 Pushed 1 commit(s) to `simple-discord-ban-bot` (chore: fix) - 6/1/2025, 6:39:46 PM
 1. 📊 Pushed 1 commit(s) to `simple-discord-ban-bot` (Add missing file) - 6/1/2025, 6:37:05 PM
 1. 📊 Pushed 1 commit(s) to `simple-discord-ban-bot` (Fix issues) - 6/1/2025, 6:34:06 PM
-1. 📊 Pushed 1 commit(s) to `simple-discord-ban-bot` (Add better orginization and user fetching info) - 6/1/2025, 6:29:50 PM
-1. 📊 Pushed 1 commit(s) to `CloveTwilight3-Files` (Add wallpaper, Rose Pine themes, and Spicetify config) - 5/30/2025, 9:57:35 AM
 
-*Last Updated: Sunday, June 1, 2025 at 11:09 PM*
+*Last Updated: Monday, June 2, 2025 at 12:51 AM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
