@@ -23,6 +23,9 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (chore: Make code cleaner) - 6/3/2025, 11:41:48 AM
+1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (chore: Make code cleaner) - 6/3/2025, 11:38:53 AM
+1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (chore: Make code cleaner) - 6/3/2025, 11:32:41 AM
 1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (chore: Make code cleaner) - 6/3/2025, 11:12:55 AM
 1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (chore: Make code cleaner) - 6/3/2025, 11:03:58 AM
 1. 📊 Pushed 2 commit(s) to `RoomMates-Helper` (migrate to database, Migrating to database) - 6/2/2025, 9:03:28 PM
@@ -43,13 +46,10 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 📊 Pushed 1 commit(s) to `plural-web` (Add CloDeadJett) - 5/26/2025, 7:47:30 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Add GekClove) - 5/26/2025, 7:45:30 AM
 1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (Fix infractions file) - 5/26/2025, 6:30:52 AM
-1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (Add echo command (admin)) - 5/26/2025, 6:25:52 AM
-1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (Add echo command (admin)) - 5/26/2025, 6:22:11 AM
-1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (Add echo command (admin)) - 5/26/2025, 6:18:33 AM
 1. 📊 Pushed 1 commit(s) to `simple-discord-ban-bot` (Fix code issues) - 6/3/2025, 8:43:15 AM
 1. 📊 Pushed 1 commit(s) to `simple-discord-ban-bot` (Add XP System) - 6/3/2025, 8:37:55 AM
 
-*Last Updated: Tuesday, June 3, 2025 at 4:13 PM*
+*Last Updated: Tuesday, June 3, 2025 at 5:10 PM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
