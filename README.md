@@ -23,6 +23,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (chore: Make code cleaner) - 6/3/2025, 11:12:55 AM
+1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (chore: Make code cleaner) - 6/3/2025, 11:03:58 AM
 1. 📊 Pushed 2 commit(s) to `RoomMates-Helper` (migrate to database, Migrating to database) - 6/2/2025, 9:03:28 PM
 1. 📊 Pushed 20 commit(s) to `RoomMates-Helper` (Add confessions.ts, Update .env.example...) - 6/2/2025, 2:32:03 PM
 1. 📊 Pushed 2 commit(s) to `plural-web` (chore: fix main.py, chore: fix main.py) - 6/2/2025, 12:56:46 AM
@@ -44,12 +46,10 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (Add echo command (admin)) - 5/26/2025, 6:25:52 AM
 1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (Add echo command (admin)) - 5/26/2025, 6:22:11 AM
 1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (Add echo command (admin)) - 5/26/2025, 6:18:33 AM
-1. 📊 Pushed 1 commit(s) to `plural-web` (Add more profile images for cofronts) - 5/26/2025, 4:21:35 AM
-1. 📊 Pushed 1 commit(s) to `plural-web` (Add more profile images for cofronts) - 5/26/2025, 3:11:00 AM
 1. 📊 Pushed 1 commit(s) to `simple-discord-ban-bot` (Fix code issues) - 6/3/2025, 8:43:15 AM
 1. 📊 Pushed 1 commit(s) to `simple-discord-ban-bot` (Add XP System) - 6/3/2025, 8:37:55 AM
 
-*Last Updated: Tuesday, June 3, 2025 at 3:11 PM*
+*Last Updated: Tuesday, June 3, 2025 at 4:13 PM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
