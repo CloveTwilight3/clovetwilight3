@@ -46,10 +46,10 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (Add echo command (admin)) - 5/26/2025, 6:18:33 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Add more profile images for cofronts) - 5/26/2025, 4:21:35 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Add more profile images for cofronts) - 5/26/2025, 3:11:00 AM
-1. 📊 Pushed 2 commit(s) to `RoomMates-Helper` (Add nsfw access toggle, Add nsfw access toggle) - 5/25/2025, 7:44:21 PM
-1. 📊 Pushed 1 commit(s) to `the-vixen` (Commit) - 6/1/2025, 6:50:30 PM
+1. 📊 Pushed 1 commit(s) to `simple-discord-ban-bot` (Fix code issues) - 6/3/2025, 8:43:15 AM
+1. 📊 Pushed 1 commit(s) to `simple-discord-ban-bot` (Add XP System) - 6/3/2025, 8:37:55 AM
 
-*Last Updated: Tuesday, June 3, 2025 at 11:08 AM*
+*Last Updated: Tuesday, June 3, 2025 at 12:18 PM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
