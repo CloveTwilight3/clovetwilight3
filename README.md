@@ -23,6 +23,11 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `plural-web` (rm: remove eruda) - 6/15/2025, 10:48:24 AM
+1. 📊 Pushed 1 commit(s) to `plural-web` (fix: allow external connections) - 6/15/2025, 10:36:08 AM
+1. 📊 Pushed 1 commit(s) to `plural-web` (hotfix: add more gitignore) - 6/15/2025, 10:23:31 AM
+1. 📊 Pushed 2 commit(s) to `plural-web` (add: more subsystem info, add: more subsystem info) - 6/15/2025, 10:21:36 AM
+1. 📊 Pushed 1 commit(s) to `plural-web` (add: more subsystem info) - 6/15/2025, 10:20:52 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (hotfix: add more gitignore) - 6/15/2025, 10:07:15 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (hotfix: remove venv and pycache) - 6/15/2025, 9:59:35 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Update App.jazzy) - 6/14/2025, 1:34:26 PM
@@ -43,13 +48,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 📊 Pushed 1 commit(s) to `plural-web` (Update docker-compose.yml) - 6/14/2025, 2:10:15 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Update docker-compose.yml) - 6/14/2025, 2:08:34 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Update index.html) - 6/14/2025, 1:50:45 AM
-1. 📊 Pushed 1 commit(s) to `plural-web` (Update index.html) - 6/14/2025, 1:50:22 AM
-1. 📊 Pushed 1 commit(s) to `plural-web` (Update Dockerfile) - 6/14/2025, 1:44:18 AM
-1. 📊 Pushed 1 commit(s) to `plural-web` (Update docker-compose.yml) - 6/14/2025, 1:43:44 AM
-1. 📊 Pushed 1 commit(s) to `plural-web` (Update Dockerfile) - 6/14/2025, 1:40:36 AM
-1. 📊 Pushed 1 commit(s) to `plural-web` (Update Dockerfile) - 6/14/2025, 1:40:03 AM
 
-*Last Updated: Sunday, June 15, 2025 at 10:10 AM*
+*Last Updated: Sunday, June 15, 2025 at 11:07 AM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
