@@ -23,7 +23,12 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
-1. 📊 Pushed 1 commit(s) to `RoomMates-Helper` (chore: Make code cleaner) - 6/3/2025, 12:28:10 PM
+1. 📊 Pushed 1 commit(s) to `Clove-Pride-Reminders` (Fixes) - 6/21/2025, 7:02:24 PM
+1. 📊 Pushed 1 commit(s) to `Clove-Pride-Reminders` (Fixes) - 6/21/2025, 7:00:28 PM
+1. 📊 Pushed 1 commit(s) to `Clove-Pride-Reminders` (Fixes) - 6/21/2025, 6:57:59 PM
+1. 📊 Pushed 1 commit(s) to `Clove-Pride-Reminders` (Fixes) - 6/21/2025, 6:54:31 PM
+1. 📊 Pushed 1 commit(s) to `Clove-Pride-Reminders` (Fixes) - 6/21/2025, 6:50:43 PM
+1. 📊 Pushed 1 commit(s) to `Clove-Pride-Reminders` (updates) - 6/21/2025, 6:32:15 PM
 1. 📊 Pushed 1 commit(s) to `Clove-Bot` (fixes) - 6/21/2025, 1:44:07 PM
 1. 📊 Pushed 1 commit(s) to `Clove-Bot` (fixes) - 6/21/2025, 1:43:24 PM
 1. 📊 Pushed 1 commit(s) to `Clove-Bot` (Add pride events) - 6/21/2025, 12:55:06 PM
@@ -43,13 +48,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 📊 Pushed 1 commit(s) to `myluminarasystem.pro` (First Commits) - 6/16/2025, 11:29:44 AM
 1. 📊 Pushed 1 commit(s) to `myluminarasystem.pro` (First Commits) - 6/16/2025, 10:46:06 AM
 1. 📊 Pushed 1 commit(s) to `myluminarasystem.pro` (First Commits) - 6/16/2025, 10:26:17 AM
-1. 📊 Pushed 1 commit(s) to `myluminarasystem.pro` (First Commits) - 6/16/2025, 10:15:54 AM
-1. 🌟 Made `myluminarasystem.pro` public - 6/16/2025, 3:20:11 AM
-1. 📊 Pushed 1 commit(s) to `SpectraNet` (Update DatabaseManager.ts) - 6/12/2025, 9:26:26 PM
-1. 📊 Pushed 1 commit(s) to `SpectraNet` (Update HoneypotBot.ts) - 6/12/2025, 9:24:35 PM
-1. 📊 Pushed 1 commit(s) to `SpectraNet` (Update OwnerCommands.ts) - 6/12/2025, 9:22:20 PM
 
-*Last Updated: Saturday, June 21, 2025 at 6:11 PM*
+*Last Updated: Saturday, June 21, 2025 at 7:06 PM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
