@@ -23,6 +23,17 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `Loop` (Updates) - 6/24/2025, 8:15:30 PM
+1. 📊 Pushed 1 commit(s) to `Loop` (Updates) - 6/24/2025, 8:13:59 PM
+1. 📊 Pushed 1 commit(s) to `Loop` (Updates) - 6/24/2025, 8:10:36 PM
+1. 📊 Pushed 1 commit(s) to `Loop` (Updates) - 6/24/2025, 8:09:14 PM
+1. 📊 Pushed 1 commit(s) to `Loop` (Updates) - 6/24/2025, 8:06:27 PM
+1. 📊 Pushed 1 commit(s) to `Loop` (Updates) - 6/24/2025, 8:04:59 PM
+1. 📊 Pushed 1 commit(s) to `Loop` (Updates) - 6/24/2025, 7:57:06 PM
+1. 📊 Pushed 1 commit(s) to `Loop` (Updates) - 6/24/2025, 7:53:23 PM
+1. 📊 Pushed 1 commit(s) to `Loop` (Updates) - 6/24/2025, 7:52:27 PM
+1. 📊 Pushed 1 commit(s) to `Loop` (Updates) - 6/24/2025, 7:41:03 PM
+1. 📊 Pushed 1 commit(s) to `Loop` (Add Discord Bot Functionality) - 6/24/2025, 7:30:05 PM
 1. 📊 Pushed 1 commit(s) to `myluminarasystem.pro` (Add app stuff) - 6/23/2025, 10:46:11 PM
 1. 🍴 Forked `LoopWorkspace` - 6/23/2025, 10:34:01 PM
 1. 📊 Pushed 1 commit(s) to `SpectraNet` (Update README.md) - 6/22/2025, 1:37:21 PM
@@ -37,19 +48,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 📊 Pushed 1 commit(s) to `Clove-Pride-Reminders` (Fixes) - 6/21/2025, 7:00:28 PM
 1. 📊 Pushed 1 commit(s) to `Clove-Pride-Reminders` (Fixes) - 6/21/2025, 6:57:59 PM
 1. 📊 Pushed 1 commit(s) to `Clove-Pride-Reminders` (Fixes) - 6/21/2025, 6:54:31 PM
-1. 📊 Pushed 1 commit(s) to `Clove-Pride-Reminders` (Fixes) - 6/21/2025, 6:50:43 PM
-1. 📊 Pushed 1 commit(s) to `Clove-Pride-Reminders` (updates) - 6/21/2025, 6:32:15 PM
-1. 📊 Pushed 1 commit(s) to `Clove-Bot` (fixes) - 6/21/2025, 1:44:07 PM
-1. 📊 Pushed 1 commit(s) to `Clove-Bot` (fixes) - 6/21/2025, 1:43:24 PM
-1. 📊 Pushed 1 commit(s) to `Clove-Bot` (Add pride events) - 6/21/2025, 12:55:06 PM
-1. 📊 Pushed 1 commit(s) to `Clove-Bot` (Add pride events) - 6/21/2025, 12:54:37 PM
-1. 📊 Pushed 1 commit(s) to `Clove-Bot` (Fix youtube spamming) - 6/21/2025, 12:06:58 PM
-1. 📊 Pushed 1 commit(s) to `Clove-Bot` (Fixes to feeds) - 6/19/2025, 10:57:07 PM
-1. 📊 Pushed 1 commit(s) to `Clove-Bot` (Fixes to feeds) - 6/19/2025, 10:53:53 PM
-1. 📊 Pushed 1 commit(s) to `Clove-Bot` (Fixes to feeds) - 6/19/2025, 10:51:39 PM
-1. 📊 Pushed 1 commit(s) to `Clove-Bot` (Add feeds) - 6/19/2025, 8:04:55 PM
 
-*Last Updated: Wednesday, June 25, 2025 at 11:09 AM*
+*Last Updated: Wednesday, June 25, 2025 at 12:19 PM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
