@@ -23,6 +23,10 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `Loop` (Change to TS over swift) - 6/24/2025, 8:47:22 PM
+1. 📊 Pushed 1 commit(s) to `Loop` (Change from Webhook to bot) - 6/24/2025, 8:33:02 PM
+1. 📊 Pushed 1 commit(s) to `Loop` (Change from Webhook to bot) - 6/24/2025, 8:32:46 PM
+1. 📊 Pushed 1 commit(s) to `Loop` (Updates) - 6/24/2025, 8:23:44 PM
 1. 📊 Pushed 1 commit(s) to `Loop` (Updates) - 6/24/2025, 8:15:30 PM
 1. 📊 Pushed 1 commit(s) to `Loop` (Updates) - 6/24/2025, 8:13:59 PM
 1. 📊 Pushed 1 commit(s) to `Loop` (Updates) - 6/24/2025, 8:10:36 PM
@@ -44,12 +48,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 📊 Pushed 1 commit(s) to `Clove-Pride-Reminders` (Fixes) - 6/21/2025, 7:17:33 PM
 1. 📊 Pushed 1 commit(s) to `Clove-Pride-Reminders` (Fixes) - 6/21/2025, 7:15:10 PM
 1. 📊 Pushed 1 commit(s) to `Clove-Pride-Reminders` (Fixes) - 6/21/2025, 7:13:27 PM
-1. 📊 Pushed 1 commit(s) to `Clove-Pride-Reminders` (Fixes) - 6/21/2025, 7:02:24 PM
-1. 📊 Pushed 1 commit(s) to `Clove-Pride-Reminders` (Fixes) - 6/21/2025, 7:00:28 PM
-1. 📊 Pushed 1 commit(s) to `Clove-Pride-Reminders` (Fixes) - 6/21/2025, 6:57:59 PM
-1. 📊 Pushed 1 commit(s) to `Clove-Pride-Reminders` (Fixes) - 6/21/2025, 6:54:31 PM
 
-*Last Updated: Wednesday, June 25, 2025 at 12:19 PM*
+*Last Updated: Wednesday, June 25, 2025 at 1:27 PM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
