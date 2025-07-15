@@ -23,6 +23,7 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `plural-web` (add emily bday) - 7/15/2025, 5:44:41 PM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Update the package.json) - 7/4/2025, 11:20:39 PM
 1. 🌟 Made `plural-web` public - 7/4/2025, 9:52:56 AM
 1. 📊 Pushed 1 commit(s) to `plural-web` (Update layout-fixes.css) - 7/4/2025, 9:12:36 AM
@@ -47,9 +48,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 📊 Pushed 1 commit(s) to `RoomMates-Helper-Stable` (Update queue.ts) - 7/9/2025, 4:28:31 AM
 1. 📊 Pushed 1 commit(s) to `RoomMates-Helper-Stable` (Update Dockerfile) - 7/9/2025, 4:24:50 AM
 1. 📊 Pushed 1 commit(s) to `RoomMates-Helper-Stable` (Update package.json) - 7/9/2025, 4:19:51 AM
-1. 📊 Pushed 1 commit(s) to `RoomMates-Helper-Stable` (Update package.json) - 7/9/2025, 4:15:22 AM
 
-*Last Updated: Tuesday, July 15, 2025 at 5:09 PM*
+*Last Updated: Tuesday, July 15, 2025 at 6:15 PM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
