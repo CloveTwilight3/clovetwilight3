@@ -23,7 +23,9 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
-1. 📊 Pushed 1 commit(s) to `plural-web` (add emily bday) - 7/15/2025, 5:44:41 PM
+1. 📊 Pushed 1 commit(s) to `plu-ral-inviter` (Add more fixes) - 7/25/2025, 9:26:13 PM
+1. 📊 Pushed 1 commit(s) to `plu-ral-inviter` (Final fixes? I'm a moron) - 7/25/2025, 9:20:53 PM
+1. 📊 Pushed 1 commit(s) to `plu-ral-inviter` (Fixes for button) - 7/25/2025, 9:17:00 PM
 1. 📊 Pushed 1 commit(s) to `plu-ral-inviter` (Fix module issues) - 7/25/2025, 8:33:35 PM
 1. 📊 Pushed 1 commit(s) to `plu-ral-inviter` (Minor Fix) - 7/25/2025, 8:24:25 PM
 1. 📊 Pushed 1 commit(s) to `plu-ral-inviter` (Fixes) - 7/25/2025, 8:22:52 PM
@@ -46,10 +48,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. ⭐ Starred `Clove-Bot` - 7/24/2025, 11:36:23 AM
 1. ⭐ Starred `Clove-Pride-Reminders` - 7/24/2025, 11:36:22 AM
 1. ⭐ Starred `localhost-server` - 7/24/2025, 11:36:20 AM
-1. ⭐ Starred `Medication-Bot` - 7/24/2025, 11:36:16 AM
-1. ⭐ Starred `tgmc-web` - 7/24/2025, 11:36:14 AM
 
-*Last Updated: Friday, July 25, 2025 at 10:09 PM*
+*Last Updated: Friday, July 25, 2025 at 11:10 PM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
