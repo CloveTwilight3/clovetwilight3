@@ -3,7 +3,6 @@
   <p><b>Developer • Linux Enthusiast • Minecraft Modder</b></p>
   
   ![My Discord](https://discord-readme-badge.vercel.app/api?id=1025770042245251122)
-  ![Discord](https://discord-readme-badge.vercel.app/api?id=1209539928866816143)
   
   <a href="https://en.pronouns.page/@clovetwilight3"><img src="https://img.shields.io/badge/Pronouns-She%2FHer%2FFae%2FFaer-ff69b4?style=flat-square" alt="Pronouns: She/Her/Fae/Faer"/></a>
   
@@ -15,10 +14,10 @@
 I create helpful software solutions with a focus on inclusivity and user experience. I'm particularly passionate about tools that support communities and self-expression.
 
 - 💻 Full-stack developer working with TypeScript, JavaScript, Python & Java
-- 🌈 Plural system building tools for other systems ([friends.clovetwilight3.co.uk](https://friends.clovetwilight3.co.uk/))
+- 🌈 Plural system building tools for other systems ([plural.clovetwilight3.co.uk](https://plural.clovetwilight3.co.uk/))
 - 🐧 Linux enthusiast who enjoys customizing and optimizing systems
 - 🎵 Music lover with a passion for creating useful widgets and tools
-- 🔗 Check out my [portfolio](https://clovetwilight3.co.uk/) and [system website](https://friends.clovetwilight3.co.uk/)
+- 🔗 Check out my [portfolio](https://portfolio.clovetwilight3.co.uk/) and [system website](https://plural.clovetwilight3.co.uk/)
 
 ## ⚡ Recent GitHub Activity
 
@@ -130,10 +129,10 @@ src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=ff
   <a href="https://en.pronouns.page/@clovetwilight3">
     <img src="https://img.shields.io/badge/Pronouns_Page_(She/Her/Fae/Faer)-ff69b4?style=for-the-badge&logo=pagekit&logoColor=white" alt="Pronouns Page: She/Her/Fae/Faer" />
   </a>
-  <a href="https://clovetwilight3.co.uk">
+  <a href="https://portfolio.clovetwilight3.co.uk">
     <img src="https://img.shields.io/badge/Portfolio_Website-9146FF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio Website" />
   </a>
-  <a href="https://friends.clovetwilight3.co.uk">
+  <a href="https://plural.clovetwilight3.co.uk">
     <img src="https://img.shields.io/badge/Plural_System_Website-6441A4?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Plural System Website" />
   </a>
 </div>
@@ -144,7 +143,7 @@ src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=ff
   <a href="https://www.clovetwilight3.co.uk">
     <img src="https://img.shields.io/badge/Website-FF9B55?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
   </a>
-  <a href="mailto:admin@clovetwilight3.co.uk">
+  <a href="mailto:clovetwilight3@outlook.com">
     <img src="https://img.shields.io/badge/Email-D62900?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://discord.gg/ZPDjhfcvQe">
