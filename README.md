@@ -22,6 +22,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 💬 Commented on issue #3 in `Estrocord` - 8/14/2025, 6:10:48 AM
+1. ✅ closed issue #3 in `Estrocord` (Remove herobrine) - 8/14/2025, 6:10:47 AM
 1. ❗️ opened issue #153 in `kitty-themes` (Issue with selecting a theme) - 8/13/2025, 11:06:56 PM
 1. 📊 Pushed 1 commit(s) to `nl.gaming.clovetwilight3.co.uk` (Update CNAME) - 8/13/2025, 5:19:22 PM
 1. 📊 Pushed 1 commit(s) to `nl.gaming.clovetwilight3.co.uk` (nl.gaming.clovetwilight3.co.uk) - 8/13/2025, 5:18:50 PM
@@ -45,10 +47,8 @@ I create helpful software solutions with a focus on inclusivity and user experie
 1. 📊 Pushed 1 commit(s) to `r-plural-bot` (Initial Code) - 8/8/2025, 8:14:54 PM
 1. 📊 Pushed 1 commit(s) to `r-plural-bot` (Add in dummy roles) - 8/8/2025, 7:58:42 PM
 1. 🌱 Created repository `` in `r-plural-bot` - 8/8/2025, 7:32:59 PM
-1. 🌱 Created branch `main` in `r-plural-bot` - 8/8/2025, 7:32:59 PM
-1. 📊 Pushed 1 commit(s) to `portfolio-web` (Update index.html) - 8/7/2025, 10:51:31 AM
 
-*Last Updated: Thursday, August 14, 2025 at 7:09 PM*
+*Last Updated: Thursday, August 14, 2025 at 8:11 PM*
 <!--ACTIVITY:END-->
 
 ## 🚀 Currently Active Projects
