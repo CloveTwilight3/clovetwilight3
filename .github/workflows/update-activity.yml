@@ -1,0 +1,266 @@
+name: Update GitHub Activity
+
+on:
+  schedule:
+    - cron: '*/60 * * * *'  # Runs every 30 minutes (increased to reduce API rate limit issues)
+  workflow_dispatch:  # Allow manual runs
+  push:
+    branches:
+      - main  # Change this to your default branch if different
+    paths-ignore:
+      - 'README.md'  # Prevent triggering on README updates to avoid loops
+
+jobs:
+  update-activity:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch all history for all branches and tags
+      
+      - name: Setup Git
+        run: |
+          git config --global user.email "193822784+CloveTwilightBOT@users.noreply.github.com"
+          git config --global user.name "Clove Twilight [Bot]"
+      
+      - name: Fetch latest changes
+        run: |
+          # Pull any recent changes
+          git pull origin main
+      
+      - name: Fetch GitHub activity
+        run: |
+          echo "Fetching activity for CloveTwilight3..."
+          # Fetch from multiple pages to ensure we get at least 25 activities
+          # Page 1
+          curl -s "https://api.github.com/users/clovetwilight3/events?per_page=100" > activities_page1.json
+          # Page 2 (if needed)
+          curl -s "https://api.github.com/users/clovetwilight3/events?per_page=100&page=2" > activities_page2.json
+          
+          # Combine the results
+          jq -s '.[0] + .[1]' activities_page1.json activities_page2.json > activities.json
+      
+      - name: Process activity and update README
+        run: |
+          # Create a script to process the JSON and update README
+          cat > process.js << 'EOF'
+          const fs = require('fs');
+          let activities = JSON.parse(fs.readFileSync('activities.json', 'utf8'));
+          
+          // Priority repositories - add any new ones you want to prioritize
+          const priorityRepos = ['RoomMates-Helper', 'plural-web', 'spotify-player', 'EMIS', 'pluralkit-discord-overlay', 'Custom-DiscordRPC'];
+          
+          // Repositories to ignore - you can add any repos you want to exclude
+          const ignoreRepos = ['github-activity-tracker', 'clovetwilight3', 'clovetwilight3.github.io'];
+          
+          console.log(`Total activities fetched: ${activities.length}`);
+          
+          // Print all repos found for debugging
+          const allRepos = [...new Set(activities.map(event => event.repo.name.split('/')[1]))];
+          console.log(`All repositories found: ${allRepos.join(', ')}`);
+          
+          // Filter out ignored repositories
+          const filteredActivities = activities.filter(event => {
+            const repo = event.repo.name.split('/')[1];
+            return !ignoreRepos.includes(repo);
+          });
+          
+          console.log(`Activities after filtering: ${filteredActivities.length}`);
+          
+          // More detailed activity descriptions
+          const formattedActivities = filteredActivities.map(event => {
+            const repo = event.repo.name.split('/')[1];
+            const date = new Date(event.created_at).toLocaleString();
+            
+            try {
+              switch (event.type) {
+                case 'PushEvent':
+                  const commits = event.payload.commits || [];
+                  const commitMessages = commits.length > 0 
+                    ? commits.map(c => c.message.split('\n')[0]).slice(0, 2).join(', ') 
+                    : '';
+                  const shortMessage = commitMessages.length > 0 
+                    ? ` (${commitMessages}${commits.length > 2 ? '...' : ''})` 
+                    : '';
+                  return `📊 Pushed ${commits.length} commit(s) to \`${repo}\`${shortMessage} - ${date}`;
+                case 'IssuesEvent':
+                  const issueTitle = event.payload.issue?.title || '';
+                  const issueAction = event.payload.action || '';
+                  return `${issueAction === 'opened' ? '❗️' : '✅'} ${issueAction} issue #${event.payload.issue.number} in \`${repo}\` (${issueTitle}) - ${date}`;
+                case 'PullRequestEvent':
+                  const prTitle = event.payload.pull_request?.title || '';
+                  const prAction = event.payload.action || '';
+                  return `${prAction === 'opened' ? '💪' : '🔄'} ${prAction} PR #${event.payload.pull_request.number} in \`${repo}\` (${prTitle}) - ${date}`;
+                case 'CreateEvent':
+                  return `🌱 Created ${event.payload.ref_type} \`${event.payload.ref || ''}\` in \`${repo}\` - ${date}`;
+                case 'ReleaseEvent':
+                  return `🚀 Released version ${event.payload.release.tag_name} of \`${repo}\` - ${date}`;
+                case 'WatchEvent':
+                  return `⭐ Starred \`${repo}\` - ${date}`;
+                case 'ForkEvent':
+                  return `🍴 Forked \`${repo}\` - ${date}`;
+                case 'DeleteEvent':
+                  return `🗑️ Deleted ${event.payload.ref_type} \`${event.payload.ref}\` from \`${repo}\` - ${date}`;
+                case 'PublicEvent':
+                  return `🌟 Made \`${repo}\` public - ${date}`;
+                case 'CommitCommentEvent':
+                  return `💬 Commented on commit in \`${repo}\` - ${date}`;
+                case 'IssueCommentEvent':
+                  return `💬 Commented on issue #${event.payload.issue.number} in \`${repo}\` - ${date}`;
+                case 'MemberEvent':
+                  return `👥 ${event.payload.action} user ${event.payload.member.login} to \`${repo}\` - ${date}`;
+                default:
+                  return `🔧 ${event.type} in \`${repo}\` - ${date}`;
+              }
+            } catch (error) {
+              console.error(`Error processing event: ${error.message}`);
+              return `🔧 Activity in \`${repo}\` - ${date}`;
+            }
+          });
+          
+          // Sort activities to prioritize certain repositories
+          const sortedActivities = [...formattedActivities].sort((a, b) => {
+            const aIsPriority = priorityRepos.some(repo => a.includes(`\`${repo}\``));
+            const bIsPriority = priorityRepos.some(repo => b.includes(`\`${repo}\``));
+            
+            if (aIsPriority && !bIsPriority) return -1;
+            if (!aIsPriority && bIsPriority) return 1;
+            return 0;
+          });
+          
+          // Ensure we have exactly 25 activities
+          // First sort by date (newest first) to guarantee we get the most recent activities
+          const datesSorted = filteredActivities.sort((a, b) => {
+            return new Date(b.created_at) - new Date(a.created_at);
+          });
+          
+          // Format the most recent activities
+          const mostRecentFormatted = datesSorted.slice(0, 50).map(event => {
+            const repo = event.repo.name.split('/')[1];
+            const date = new Date(event.created_at).toLocaleString();
+            
+            try {
+              // Same formatting code as above
+              switch (event.type) {
+                case 'PushEvent':
+                  const commits = event.payload.commits || [];
+                  const commitMessages = commits.length > 0 
+                    ? commits.map(c => c.message.split('\n')[0]).slice(0, 2).join(', ') 
+                    : '';
+                  const shortMessage = commitMessages.length > 0 
+                    ? ` (${commitMessages}${commits.length > 2 ? '...' : ''})` 
+                    : '';
+                  return `📊 Pushed ${commits.length} commit(s) to \`${repo}\`${shortMessage} - ${date}`;
+                case 'IssuesEvent':
+                  const issueTitle = event.payload.issue?.title || '';
+                  const issueAction = event.payload.action || '';
+                  return `${issueAction === 'opened' ? '❗️' : '✅'} ${issueAction} issue #${event.payload.issue.number} in \`${repo}\` (${issueTitle}) - ${date}`;
+                case 'PullRequestEvent':
+                  const prTitle = event.payload.pull_request?.title || '';
+                  const prAction = event.payload.action || '';
+                  return `${prAction === 'opened' ? '💪' : '🔄'} ${prAction} PR #${event.payload.pull_request.number} in \`${repo}\` (${prTitle}) - ${date}`;
+                case 'CreateEvent':
+                  return `🌱 Created ${event.payload.ref_type} \`${event.payload.ref || ''}\` in \`${repo}\` - ${date}`;
+                case 'ReleaseEvent':
+                  return `🚀 Released version ${event.payload.release.tag_name} of \`${repo}\` - ${date}`;
+                case 'WatchEvent':
+                  return `⭐ Starred \`${repo}\` - ${date}`;
+                case 'ForkEvent':
+                  return `🍴 Forked \`${repo}\` - ${date}`;
+                case 'DeleteEvent':
+                  return `🗑️ Deleted ${event.payload.ref_type} \`${event.payload.ref}\` from \`${repo}\` - ${date}`;
+                case 'PublicEvent':
+                  return `🌟 Made \`${repo}\` public - ${date}`;
+                case 'CommitCommentEvent':
+                  return `💬 Commented on commit in \`${repo}\` - ${date}`;
+                case 'IssueCommentEvent':
+                  return `💬 Commented on issue #${event.payload.issue.number} in \`${repo}\` - ${date}`;
+                case 'MemberEvent':
+                  return `👥 ${event.payload.action} user ${event.payload.member.login} to \`${repo}\` - ${date}`;
+                default:
+                  return `🔧 ${event.type} in \`${repo}\` - ${date}`;
+              }
+            } catch (error) {
+              console.error(`Error processing event: ${error.message}`);
+              return `🔧 Activity in \`${repo}\` - ${date}`;
+            }
+          });
+          
+          // Then apply priority sorting within the most recent activities
+          const prioritySorted = [...mostRecentFormatted].sort((a, b) => {
+            const aIsPriority = priorityRepos.some(repo => a.includes(`\`${repo}\``));
+            const bIsPriority = priorityRepos.some(repo => b.includes(`\`${repo}\``));
+            
+            // If both or neither are priority repos, don't change the order (keep date sorting)
+            if ((aIsPriority && bIsPriority) || (!aIsPriority && !bIsPriority)) return 0;
+            
+            // Otherwise, prioritize priority repos
+            if (aIsPriority && !bIsPriority) return -1;
+            if (!aIsPriority && bIsPriority) return 1;
+            return 0;
+          });
+          
+          // Take exactly 5 activities
+          const topActivities = prioritySorted.slice(0, 5);
+          
+          // Create the markdown
+          const timestamp = new Date().toLocaleString('en-US', { 
+            weekday: 'long', 
+            year: 'numeric', 
+            month: 'long', 
+            day: 'numeric', 
+            hour: 'numeric', 
+            minute: 'numeric'
+          });
+          
+          // Handle case where there might be no activities after filtering
+          let activityMarkdown = '';
+          
+          if (topActivities.length > 0) {
+            activityMarkdown = topActivities.map(activity => `1. ${activity}`).join('\n');
+          } else {
+            console.log("No activities found after filtering!");
+            // Include any other repo activity as a fallback
+            activityMarkdown = "_No activities found in prioritized repositories. Showing all recent activity:_\n\n" + 
+                              formattedActivities.slice(0, 5).map(activity => `1. ${activity}`).join('\n');
+              
+            // If still nothing, show the message
+            if (formattedActivities.length === 0) {
+              activityMarkdown = "_No recent activity in tracked repositories_";
+            }
+          }
+          
+          const updatedSection = `<!--ACTIVITY:START-->\n${activityMarkdown}\n\n*Last Updated: ${timestamp}*\n<!--ACTIVITY:END-->`;
+          
+          // Read README and update it
+          const readmePath = './README.md';
+          let readme = fs.readFileSync(readmePath, 'utf8');
+          
+          readme = readme.replace(
+            /<!--ACTIVITY:START-->[\s\S]*<!--ACTIVITY:END-->/,
+            updatedSection
+          );
+          
+          fs.writeFileSync(readmePath, readme, 'utf8');
+          console.log('✅ Successfully updated README with recent activities');
+          EOF
+          
+          # Run the script
+          node process.js
+      
+      - name: Commit and push changes
+        run: |
+          # Add README changes
+          git add README.md
+          
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "📊 Update GitHub activity"
+            git push
+          fi
