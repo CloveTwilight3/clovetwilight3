@@ -53,3 +53,10 @@ src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=ff
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
 </div>
+
+---
+
+# Contributors
+<a href="https://github.com/CloveTwilight3/clovetwilight3/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=CloveTwilight3/clovetwilight3" />
+</a>
