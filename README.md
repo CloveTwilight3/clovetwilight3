@@ -13,12 +13,12 @@
 
 <!--ACTIVITY:START-->
 1. 📊 Pushed 1 commit(s) to `EMIS` (Update README.md) - 8/25/2025, 5:29:11 AM
-1. 📊 Pushed 1 commit(s) to `Files` (Create install_nerd_fonts.sh) - 8/25/2025, 8:22:23 PM
-1. 📊 Pushed 1 commit(s) to `Clove-Blank-Repo` (Update README.md) - 8/25/2025, 7:10:44 PM
-1. 📊 Pushed 1 commit(s) to `Clove-Blank-Repo` (Create README.md) - 8/25/2025, 7:09:17 PM
-1. 📊 Pushed 1 commit(s) to `Clove-Blank-Repo` (Create LICENSE) - 8/25/2025, 7:05:22 PM
+1. 📊 Pushed 1 commit(s) to `GitCommit` (Bweh) - 8/25/2025, 10:01:08 PM
+1. 📊 Pushed 1 commit(s) to `GitCommit` (Silly goober, fixed now :3) - 8/25/2025, 9:56:00 PM
+1. 📊 Pushed 1 commit(s) to `GitCommit` (fixes) - 8/25/2025, 9:53:28 PM
+1. 📊 Pushed 1 commit(s) to `GitCommit` (Add Workflows) - 8/25/2025, 9:50:14 PM
 
-*Last Updated: Tuesday, August 26, 2025 at 8:30 AM*
+*Last Updated: Tuesday, August 26, 2025 at 9:24 AM*
 <!--ACTIVITY:END-->
 
 ## 📊 GitHub Stats
