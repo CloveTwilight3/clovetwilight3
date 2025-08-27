@@ -12,13 +12,13 @@
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
-1. 📊 Pushed 1 commit(s) to `doughmination.win` (Update pluralkit.py) - 8/27/2025, 2:53:05 AM
-1. 📊 Pushed 1 commit(s) to `doughmination.win` (Update main.py) - 8/27/2025, 2:51:41 AM
-1. 📊 Pushed 1 commit(s) to `faq.clovetwilight3.co.uk` (Update style.css) - 8/27/2025, 1:54:20 AM
-1. 📊 Pushed 1 commit(s) to `faq.clovetwilight3.co.uk` (Add loading screen) - 8/27/2025, 1:53:15 AM
-1. 📊 Pushed 1 commit(s) to `faq.clovetwilight3.co.uk` (Update script.js) - 8/27/2025, 1:52:28 AM
+1. 📊 Pushed 1 commit(s) to `doughmination.win` (Create nginx.setup) - 8/27/2025, 3:39:42 AM
+1. 📊 Pushed 1 commit(s) to `doughmination.win` (Rename docker-compose.yml to compose.yml) - 8/27/2025, 3:38:59 AM
+1. 📊 Pushed 1 commit(s) to `doughmination.win` (Update Welcome.jsx) - 8/27/2025, 3:38:11 AM
+1. 📊 Pushed 1 commit(s) to `doughmination.win` (Fix the 500 errors!) - 8/27/2025, 3:32:22 AM
+1. 📊 Pushed 1 commit(s) to `doughmination.win` (Update App.jsx) - 8/27/2025, 3:20:11 AM
 
-*Last Updated: Wednesday, August 27, 2025 at 8:28 AM*
+*Last Updated: Wednesday, August 27, 2025 at 9:22 AM*
 <!--ACTIVITY:END-->
 
 ## 📊 GitHub Stats
