@@ -12,13 +12,13 @@
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 2 commit(s) to `EMIS` (deps(deps): bump axios from 1.9.0 to 1.11.0, Merge pull request #1 from CloveTwilight3/dependabot/npm_and_yarn/axios-1.11.0) - 8/27/2025, 5:23:16 PM
+1. 🔄 closed PR #1 in `EMIS` (deps(deps): bump axios from 1.9.0 to 1.11.0) - 8/27/2025, 5:23:15 PM
 1. 📊 Pushed 1 commit(s) to `EMIS` (Create dependabot.yml) - 8/27/2025, 12:50:33 PM
-1. 📊 Pushed 2 commit(s) to `doughmination.win` (Bump @vitejs/plugin-react from 4.4.1 to 5.0.1 in /frontend, Merge pull request #3 from CloveTwilight3/dependabot/npm_and_yarn/frontend/vitejs/plugin-react-5.0.1) - 8/27/2025, 2:05:40 PM
-1. 🔄 closed PR #3 in `doughmination.win` (Bump @vitejs/plugin-react from 4.4.1 to 5.0.1 in /frontend) - 8/27/2025, 2:05:40 PM
-1. 📊 Pushed 1 commit(s) to `doughmination.win` (Update README.md) - 8/27/2025, 2:03:52 PM
-1. 💬 Commented on issue #3 in `doughmination.win` - 8/27/2025, 2:01:56 PM
+1. 📊 Pushed 2 commit(s) to `doughmination.win` (Bump @tailwindcss/postcss from 4.1.4 to 4.1.12 in /frontend, Merge pull request #7 from CloveTwilight3/dependabot/npm_and_yarn/frontend/tailwindcss/postcss-4.1.12) - 8/27/2025, 5:26:06 PM
+1. 🔄 closed PR #7 in `doughmination.win` (Bump @tailwindcss/postcss from 4.1.4 to 4.1.12 in /frontend) - 8/27/2025, 5:26:06 PM
 
-*Last Updated: Thursday, August 28, 2025 at 7:20 AM*
+*Last Updated: Thursday, August 28, 2025 at 8:28 AM*
 <!--ACTIVITY:END-->
 
 ## 📊 GitHub Stats
