@@ -24,7 +24,7 @@ jobs:
       
       - name: Setup Git
         run: |
-          git config --global user.email "193822784+CloveTwilightBOT@users.noreply.github.com"
+          git config --global user.email "noreply@clovetwilight3.co.uk"
           git config --global user.name "Clove Twilight [Bot]"
       
       - name: Fetch latest changes
