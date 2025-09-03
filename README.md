@@ -15,10 +15,10 @@
 1. 📊 Pushed 1 commit(s) to `EMIS` (fix spotify location windows) - 8/31/2025, 2:42:51 AM
 1. 📊 Pushed 1 commit(s) to `EMIS` (*cried*) - 8/31/2025, 2:25:38 AM
 1. 📊 Pushed 1 commit(s) to `EMIS` (Delete package-lock.json) - 8/31/2025, 2:24:28 AM
-1. 📊 Pushed 1 commit(s) to `trans4trans` (sdfds) - 9/3/2025, 3:14:13 AM
-1. 📊 Pushed 1 commit(s) to `trans4trans` (finay) - 9/3/2025, 3:07:43 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network` (aaaaa) - 9/3/2025, 4:27:09 AM
+1. 📊 Pushed 1 commit(s) to `doughmination.win` (change the buttons to the new central link) - 9/3/2025, 4:18:09 AM
 
-*Last Updated: Wednesday, September 3, 2025 at 3:22 PM*
+*Last Updated: Wednesday, September 3, 2025 at 4:25 PM*
 <!--ACTIVITY:END-->
 
 ## 📊 GitHub Stats
