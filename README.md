@@ -15,10 +15,10 @@
 1. 📊 Pushed 1 commit(s) to `EMIS` (fix spotify location windows) - 8/31/2025, 2:42:51 AM
 1. 📊 Pushed 1 commit(s) to `EMIS` (*cried*) - 8/31/2025, 2:25:38 AM
 1. 📊 Pushed 1 commit(s) to `EMIS` (Delete package-lock.json) - 8/31/2025, 2:24:28 AM
-1. 🌟 Made `yuri-lover` public - 9/4/2025, 4:42:24 PM
-1. 🌟 Made `www` public - 9/4/2025, 4:42:19 PM
+1. 🌟 Made `socials` public - 9/4/2025, 4:45:20 PM
+1. 🌟 Made `yaoi-lover` public - 9/4/2025, 4:44:23 PM
 
-*Last Updated: Friday, September 5, 2025 at 6:30 AM*
+*Last Updated: Friday, September 5, 2025 at 7:19 AM*
 <!--ACTIVITY:END-->
 
 ## 📊 GitHub Stats
