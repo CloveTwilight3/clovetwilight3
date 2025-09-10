@@ -12,13 +12,13 @@
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (uuhhh) - 9/10/2025, 3:47:55 AM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (Remove version field from compose.yml for Docker compatibility) - 9/10/2025, 3:47:34 AM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (Update files in yuri-lover.win folder) - 9/10/2025, 3:41:31 AM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (Clean up old files after Vite React migration) - 9/10/2025, 3:40:49 AM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (Add and migrate beta.butterfly-network.win to React, update assets and Comic Code font.) - 9/10/2025, 3:23:51 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (Update Home.jsx to use links.json for link hub and fix LinkCard import path) - 9/10/2025, 4:23:13 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (duh) - 9/10/2025, 4:09:49 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (oops) - 9/10/2025, 4:07:32 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (ugh) - 9/10/2025, 4:03:33 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (hmmm) - 9/10/2025, 3:59:51 AM
 
-*Last Updated: Wednesday, September 10, 2025 at 2:19 PM*
+*Last Updated: Wednesday, September 10, 2025 at 3:21 PM*
 <!--ACTIVITY:END-->
 
 ## 📊 GitHub Stats
