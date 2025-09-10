@@ -12,13 +12,13 @@
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (updates) - 9/10/2025, 2:08:36 AM
-1. 📊 Pushed 1 commit(s) to `Simple-Link-Hub-Template` (Update README.md) - 9/10/2025, 1:56:06 AM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` ([meta] Add and update repo meta files\n\nAdded SECURITY.md, CODE_OF_CONDUCT.md, CONTRIBUTING.md, and .gitignore. Updated security contact to Outlook and badge.) - 9/10/2025, 1:50:43 AM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` ([chore] Add cache clearing steps to all workflows\n\nClear npm cache for Node.js workflows and Docker builder cache for Docker workflow before install/build.) - 9/10/2025, 1:43:34 AM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` ([fix] Correct working directory and script paths for workflow\n\nInstall @octokit/rest in .github/scripts and run scripts from repo root to resolve ERR_MODULE_NOT_FOUND.) - 9/10/2025, 1:40:53 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (uuhhh) - 9/10/2025, 3:47:55 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (Remove version field from compose.yml for Docker compatibility) - 9/10/2025, 3:47:34 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (Update files in yuri-lover.win folder) - 9/10/2025, 3:41:31 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (Clean up old files after Vite React migration) - 9/10/2025, 3:40:49 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (Add and migrate beta.butterfly-network.win to React, update assets and Comic Code font.) - 9/10/2025, 3:23:51 AM
 
-*Last Updated: Wednesday, September 10, 2025 at 1:28 PM*
+*Last Updated: Wednesday, September 10, 2025 at 2:19 PM*
 <!--ACTIVITY:END-->
 
 ## 📊 GitHub Stats
