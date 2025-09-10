@@ -12,13 +12,13 @@
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
-1. 📊 Pushed 1 commit(s) to `portfolio.clovetwilight3.co.uk` (Rename update-portfolio.yml to update-portfolio.yml.old) - 9/10/2025, 12:16:17 AM
-1. 📊 Pushed 1 commit(s) to `portfolio.clovetwilight3.co.uk` (Rename dependabot.yml to dependabot.yml.old) - 9/10/2025, 12:15:57 AM
-1. 📊 Pushed 1 commit(s) to `doughmination.win` (Force update for testing new PAT) - 9/10/2025, 12:01:38 AM
-1. 🌱 Created branch `main` in `butterfly-network-websites` - 9/9/2025, 11:41:39 PM
-1. 🌱 Created repository `` in `butterfly-network-websites` - 9/9/2025, 10:47:32 PM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (updates) - 9/10/2025, 2:08:36 AM
+1. 📊 Pushed 1 commit(s) to `Simple-Link-Hub-Template` (Update README.md) - 9/10/2025, 1:56:06 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` ([meta] Add and update repo meta files\n\nAdded SECURITY.md, CODE_OF_CONDUCT.md, CONTRIBUTING.md, and .gitignore. Updated security contact to Outlook and badge.) - 9/10/2025, 1:50:43 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` ([chore] Add cache clearing steps to all workflows\n\nClear npm cache for Node.js workflows and Docker builder cache for Docker workflow before install/build.) - 9/10/2025, 1:43:34 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` ([fix] Correct working directory and script paths for workflow\n\nInstall @octokit/rest in .github/scripts and run scripts from repo root to resolve ERR_MODULE_NOT_FOUND.) - 9/10/2025, 1:40:53 AM
 
-*Last Updated: Wednesday, September 10, 2025 at 11:16 AM*
+*Last Updated: Wednesday, September 10, 2025 at 12:41 PM*
 <!--ACTIVITY:END-->
 
 ## 📊 GitHub Stats
