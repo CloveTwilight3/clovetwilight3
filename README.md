@@ -12,13 +12,13 @@
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (Update Home.jsx to use links.json for link hub and fix LinkCard import path) - 9/10/2025, 4:23:13 AM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (duh) - 9/10/2025, 4:09:49 AM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (oops) - 9/10/2025, 4:07:32 AM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (ugh) - 9/10/2025, 4:03:33 AM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (hmmm) - 9/10/2025, 3:59:51 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (hmm try this...?) - 9/10/2025, 5:27:08 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (hmm) - 9/10/2025, 5:18:33 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (Allow beta.butterfly-network.win host in Vite preview) - 9/10/2025, 5:14:05 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (hmmm) - 9/10/2025, 5:11:24 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (silly goober) - 9/10/2025, 5:08:08 AM
 
-*Last Updated: Wednesday, September 10, 2025 at 3:21 PM*
+*Last Updated: Wednesday, September 10, 2025 at 4:26 PM*
 <!--ACTIVITY:END-->
 
 ## 📊 GitHub Stats
