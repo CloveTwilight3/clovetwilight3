@@ -12,13 +12,13 @@
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (wait not a npm thing silly) - 9/12/2025, 6:52:49 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (move portfolio and update dependabot) - 9/12/2025, 6:47:01 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (hmm) - 9/12/2025, 6:38:21 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (I'm gay) - 9/12/2025, 6:33:48 AM
 1. 📊 Pushed 2 commit(s) to `butterfly-network-websites` (Bump recharts from 2.15.4 to 3.2.0 in /butterfly-network.win, Merge pull request #9 from The-Butterfly-Network/dependabot/npm_and_yarn/butterfly-network.win/recharts-3.2.0) - 9/12/2025, 6:31:02 AM
-1. 🔄 closed PR #9 in `butterfly-network-websites` (Bump recharts from 2.15.4 to 3.2.0 in /butterfly-network.win) - 9/12/2025, 6:31:02 AM
-1. 📊 Pushed 2 commit(s) to `butterfly-network-websites` (Bump vite from 5.4.20 to 7.1.5 in /butterfly-network.win, Merge pull request #10 from The-Butterfly-Network/dependabot/npm_and_yarn/butterfly-network.win/vite-7.1.5) - 9/12/2025, 6:25:01 AM
-1. 🔄 closed PR #10 in `butterfly-network-websites` (Bump vite from 5.4.20 to 7.1.5 in /butterfly-network.win) - 9/12/2025, 6:25:00 AM
-1. 📊 Pushed 2 commit(s) to `butterfly-network-websites` (Bump @hookform/resolvers from 3.10.0 to 5.2.1 in /butterfly-network.win, Merge pull request #11 from The-Butterfly-Network/dependabot/npm_and_yarn/butterfly-network.win/hookform/resolvers-5.2.1) - 9/12/2025, 6:24:50 AM
 
-*Last Updated: Friday, September 12, 2025 at 10:21 AM*
+*Last Updated: Friday, September 12, 2025 at 11:16 AM*
 <!--ACTIVITY:END-->
 
 ## 📊 GitHub Stats
