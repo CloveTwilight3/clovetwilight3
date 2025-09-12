@@ -12,13 +12,13 @@
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` ([npm]: install @tailwindcss/postcss) - 9/12/2025, 12:11:39 PM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (update npm) - 9/12/2025, 11:44:51 AM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (max my open PRs) - 9/12/2025, 11:30:38 AM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` ([docker]: Uncomment t4t) - 9/12/2025, 11:23:53 AM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` ([dependabot]: Add labels and also add future planned repos) - 9/12/2025, 11:17:45 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` ([.github] update info) - 9/12/2025, 12:28:16 PM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` ([sh] Don't ignore skipped pulls) - 9/12/2025, 12:23:24 PM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` ([sh] change start command to handle better) - 9/12/2025, 12:20:33 PM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` ([js] config changes to postcss) - 9/12/2025, 12:17:01 PM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` ([js] fix postcss config) - 9/12/2025, 12:13:57 PM
 
-*Last Updated: Friday, September 12, 2025 at 10:17 PM*
+*Last Updated: Friday, September 12, 2025 at 11:17 PM*
 <!--ACTIVITY:END-->
 
 ## 📊 GitHub Stats
