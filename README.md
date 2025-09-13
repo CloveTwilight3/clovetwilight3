@@ -12,13 +12,13 @@
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
-1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (add clovetwilight3.co.uk) - 9/12/2025, 6:12:46 PM
-1. 🗑️ Deleted branch `dev` from `butterfly-network-docker` - 9/12/2025, 6:02:33 PM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (add stable and beta varients) - 9/12/2025, 6:01:57 PM
-1. 🌱 Created branch `dev` in `butterfly-network-docker` - 9/12/2025, 5:53:50 PM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` ([doughmination.win] Update the github button url) - 9/12/2025, 5:45:45 PM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` ([sh] Make start.sh runable) - 9/13/2025, 3:12:16 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` ([docker] update ports for dough-front) - 9/13/2025, 3:02:10 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` ([docker:doughmination-frontend] change ports from 8080 to 8001) - 9/13/2025, 2:58:51 AM
+1. 📊 Pushed 1 commit(s) to `GitCommit` (Rename icon.png to assets/icon.png) - 9/13/2025, 2:14:29 AM
+1. 📊 Pushed 1 commit(s) to `GitCommit` (Add files via upload) - 9/13/2025, 2:14:11 AM
 
-*Last Updated: Saturday, September 13, 2025 at 5:14 PM*
+*Last Updated: Saturday, September 13, 2025 at 6:24 PM*
 <!--ACTIVITY:END-->
 
 ## 📊 GitHub Stats
