@@ -12,13 +12,13 @@
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (add a pull auto flag) - 9/12/2025, 3:30:31 PM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` ([docker] Add LGBwithT) - 9/12/2025, 3:27:05 PM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (add in lgbwitht) - 9/12/2025, 3:25:13 PM
-1. 📊 Pushed 1 commit(s) to `.github` (Update README.md) - 9/12/2025, 3:08:40 PM
-1. 📊 Pushed 1 commit(s) to `.github` (Create README.md) - 9/12/2025, 3:08:03 PM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (add clovetwilight3.co.uk) - 9/12/2025, 6:12:46 PM
+1. 🗑️ Deleted branch `dev` from `butterfly-network-docker` - 9/12/2025, 6:02:33 PM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (add stable and beta varients) - 9/12/2025, 6:01:57 PM
+1. 🌱 Created branch `dev` in `butterfly-network-docker` - 9/12/2025, 5:53:50 PM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` ([doughmination.win] Update the github button url) - 9/12/2025, 5:45:45 PM
 
-*Last Updated: Saturday, September 13, 2025 at 7:16 AM*
+*Last Updated: Saturday, September 13, 2025 at 8:23 AM*
 <!--ACTIVITY:END-->
 
 ## 📊 GitHub Stats
