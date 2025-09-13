@@ -282,3 +282,4 @@ jobs:
           else
             git commit -m "📊 Update GitHub activity"
             git push
+          fi
