@@ -12,13 +12,13 @@
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (update links) - 9/14/2025, 1:11:55 AM
-1. 💬 Commented on issue #226 in `homestead` - 9/13/2025, 4:46:49 PM
-1. ❗️ opened issue #226 in `homestead` ([Bug]: Extra Mod Integrations needs a mod in v1.1.2) - 9/13/2025, 4:33:14 PM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (change to port 8080) - 9/13/2025, 4:19:27 AM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` ([sh] Make start.sh runable) - 9/13/2025, 3:12:16 AM
+1. 📊 Pushed 1 commit(s) to `.github` (Update and rename LICENSE to LICENSE.md) - 9/14/2025, 3:23:28 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (Rename LICENCE to LICENCE.md) - 9/14/2025, 3:20:13 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (move to md) - 9/14/2025, 3:19:59 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` ([legal] update licence) - 9/14/2025, 3:18:39 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (update more legal stuff) - 9/14/2025, 3:18:15 AM
 
-*Last Updated: Sunday, September 14, 2025 at 2:16 PM*
+*Last Updated: Sunday, September 14, 2025 at 3:17 PM*
 <!--ACTIVITY:END-->
 
 ## 📊 GitHub Stats
