@@ -12,13 +12,13 @@
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
-1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (updates) - 9/14/2025, 6:21:34 PM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (fixes) - 9/14/2025, 6:16:44 PM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (change to png) - 9/14/2025, 6:09:38 PM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (add new butterfly cursors) - 9/14/2025, 5:55:57 PM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (add hope pfp) - 9/14/2025, 4:03:24 PM
+1. 📊 Pushed 1 commit(s) to `FancyNPConverter-backend` (Update main.py) - 9/14/2025, 8:04:54 PM
+1. 📊 Pushed 1 commit(s) to `FancyNPConverter-backend` (Update main.py) - 9/14/2025, 8:04:12 PM
+1. 📊 Pushed 1 commit(s) to `FancyNPConverter-backend` (Update main.py) - 9/14/2025, 8:03:00 PM
+1. 📊 Pushed 1 commit(s) to `FancyNPConverter-backend` (Change to port 7000) - 9/14/2025, 8:02:38 PM
+1. 📊 Pushed 1 commit(s) to `FancyNPConverter-frontend` ([Supabase] Remove Supabase over new Backend) - 9/14/2025, 8:00:06 PM
 
-*Last Updated: Monday, September 15, 2025 at 7:21 AM*
+*Last Updated: Monday, September 15, 2025 at 8:28 AM*
 <!--ACTIVITY:END-->
 
 ## 📊 GitHub Stats
