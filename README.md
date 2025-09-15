@@ -12,13 +12,13 @@
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (add new butterfly cursors) - 9/14/2025, 5:55:57 PM
 1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (add hope pfp) - 9/14/2025, 4:03:24 PM
 1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (fix allowed sites for alextlm.co.uk) - 9/14/2025, 4:39:38 AM
 1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (add new site) - 9/14/2025, 4:21:30 AM
 1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (Add new site) - 9/14/2025, 4:17:15 AM
-1. 📊 Pushed 1 commit(s) to `.github` (Update and rename LICENSE to LICENSE.md) - 9/14/2025, 3:23:28 AM
 
-*Last Updated: Monday, September 15, 2025 at 4:25 AM*
+*Last Updated: Monday, September 15, 2025 at 5:20 AM*
 <!--ACTIVITY:END-->
 
 ## 📊 GitHub Stats
