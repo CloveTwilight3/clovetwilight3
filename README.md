@@ -12,13 +12,13 @@
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (remove old clove site) - 9/16/2025, 3:24:45 AM
 1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (Add emily pfp) - 9/15/2025, 7:12:04 PM
 1. 📊 Pushed 1 commit(s) to `FancyNPConverter-backend` (Update main.py) - 9/14/2025, 8:04:54 PM
 1. 📊 Pushed 1 commit(s) to `FancyNPConverter-backend` (Update main.py) - 9/14/2025, 8:04:12 PM
 1. 📊 Pushed 1 commit(s) to `FancyNPConverter-backend` (Update main.py) - 9/14/2025, 8:03:00 PM
-1. 📊 Pushed 1 commit(s) to `FancyNPConverter-backend` (Change to port 7000) - 9/14/2025, 8:02:38 PM
 
-*Last Updated: Tuesday, September 16, 2025 at 7:20 AM*
+*Last Updated: Tuesday, September 16, 2025 at 8:28 AM*
 <!--ACTIVITY:END-->
 
 ## 📊 GitHub Stats
