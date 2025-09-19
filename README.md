@@ -12,13 +12,13 @@
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
-1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (add frontend for new status site) - 9/19/2025, 9:16:14 AM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (attempt new site) - 9/17/2025, 6:15:57 AM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (Update README.md) - 9/16/2025, 9:29:48 PM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (Update README.md) - 9/16/2025, 9:29:37 PM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (update index.html for various sites and fix lgbt link) - 9/16/2025, 9:23:25 PM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (okay now will this work?) - 9/19/2025, 9:49:39 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (fuck) - 9/19/2025, 9:49:22 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (exclude images from being stopped) - 9/19/2025, 9:46:35 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (exclude status web) - 9/19/2025, 9:44:29 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (add new status web) - 9/19/2025, 9:43:04 AM
 
-*Last Updated: Friday, September 19, 2025 at 12:42 PM*
+*Last Updated: Friday, September 19, 2025 at 1:29 PM*
 <!--ACTIVITY:END-->
 
 ## 📊 GitHub Stats
