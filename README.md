@@ -12,13 +12,13 @@
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
-1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (update alextlm.co.uk with latest songs) - 9/22/2025, 4:29:02 AM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (owo?) - 9/21/2025, 1:35:20 AM
 1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (add catrin) - 9/21/2025, 1:31:35 AM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (hmm) - 9/21/2025, 1:05:21 AM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (OwO) - 9/21/2025, 1:02:45 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (exclude images from being stopped) - 9/19/2025, 9:46:35 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (exclude status web) - 9/19/2025, 9:44:29 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (add new status web) - 9/19/2025, 9:43:04 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (attempt new site) - 9/17/2025, 6:15:57 AM
 
-*Last Updated: Tuesday, September 23, 2025 at 9:22 AM*
+*Last Updated: Tuesday, September 23, 2025 at 10:21 AM*
 <!--ACTIVITY:END-->
 
 ## 📊 GitHub Stats
