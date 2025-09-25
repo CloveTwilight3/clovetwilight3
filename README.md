@@ -12,13 +12,13 @@
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (add student_id) - 9/25/2025, 8:20:27 AM
 1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (UwU?) - 9/25/2025, 7:19:57 AM
 1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (UwU?) - 9/25/2025, 7:13:10 AM
 1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (UwU?) - 9/25/2025, 7:08:31 AM
 1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (update some resources) - 9/25/2025, 6:55:55 AM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (update routes and add login page) - 9/25/2025, 6:44:24 AM
 
-*Last Updated: Thursday, September 25, 2025 at 6:30 PM*
+*Last Updated: Thursday, September 25, 2025 at 7:16 PM*
 <!--ACTIVITY:END-->
 
 ## 📊 GitHub Stats
