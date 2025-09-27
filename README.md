@@ -12,13 +12,13 @@
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
-1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (add endpoints and update domains) - 9/27/2025, 7:47:44 AM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (add endpoints and update domains) - 9/27/2025, 7:47:27 AM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (UwU) - 9/27/2025, 6:09:04 AM
-1. 📊 Pushed 1 commit(s) to `.github` (Update README.md) - 9/26/2025, 1:02:46 PM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (fix path) - 9/25/2025, 11:17:14 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (fix dockerfile) - 9/27/2025, 2:32:12 PM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (update to new site) - 9/27/2025, 2:28:57 PM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (update to new site) - 9/27/2025, 2:23:51 PM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (update to new site) - 9/27/2025, 2:17:45 PM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (Update .env.example) - 9/27/2025, 1:49:23 PM
 
-*Last Updated: Saturday, September 27, 2025 at 2:16 PM*
+*Last Updated: Saturday, September 27, 2025 at 3:17 PM*
 <!--ACTIVITY:END-->
 
 ## 📊 GitHub Stats
