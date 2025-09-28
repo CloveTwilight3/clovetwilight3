@@ -12,13 +12,13 @@
 ## ⚡ Recent GitHub Activity
 
 <!--ACTIVITY:START-->
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (Update compose.yml) - 9/28/2025, 2:22:12 AM
+1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (Allow HEAD requests) - 9/28/2025, 2:15:52 AM
 1. 📊 Pushed 1 commit(s) to `themes` (add bd stuff and organize files) - 9/27/2025, 7:18:32 PM
 1. 📊 Pushed 1 commit(s) to `clove-vencord-themes.github.io` (add bd api) - 9/27/2025, 7:16:42 PM
 1. 📊 Pushed 1 commit(s) to `butterfly-network-websites` (add coming soon) - 9/27/2025, 5:55:39 PM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (UwU) - 9/27/2025, 5:47:53 PM
-1. 📊 Pushed 1 commit(s) to `butterfly-network-docker` (UwU) - 9/27/2025, 5:44:19 PM
 
-*Last Updated: Sunday, September 28, 2025 at 1:46 AM*
+*Last Updated: Sunday, September 28, 2025 at 3:09 AM*
 <!--ACTIVITY:END-->
 
 ## 📊 GitHub Stats
