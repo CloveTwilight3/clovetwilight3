@@ -9,24 +9,14 @@
   <a href="https://clovetwilight3.co.uk">My Website</a>
 </div>
 
-## ⚡ Recent GitHub Activity
-
-<!--ACTIVITY:START-->
-1. 📊 Pushed 0 commit(s) to `butterfly-network-docker` - 10/20/2025, 5:55:55 AM
-1. 📊 Pushed 0 commit(s) to `butterfly-network-websites` - 10/20/2025, 5:52:49 AM
-1. 📊 Pushed 0 commit(s) to `butterfly-network-websites` - 10/20/2025, 5:47:36 AM
-1. 📊 Pushed 0 commit(s) to `Medication-Reminders` - 10/20/2025, 5:46:07 AM
-1. 📊 Pushed 0 commit(s) to `butterfly-network-docker` - 10/19/2025, 9:09:16 PM
-
-*Last Updated: Monday, October 20, 2025 at 10:19 PM*
-<!--ACTIVITY:END-->
-
 ## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=clovetwilight3&theme=synthwave&show_icons=true" alt="CloveTwilight3's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clovetwilight3&layout=compact&theme=synthwave&hide_border=true" alt="Top Languages" />
 </div>
+
+<img width="100%" align="right" alt="Snake" src="https://raw.githubusercontent.com/CloveTwilight3/CloveTwilight3/output/github-contribution-grid-snake-dark.svg">
 
 ## 🧠 Skills & Technologies
 
@@ -54,9 +44,3 @@ src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=ff
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux" />
 </div>
 
----
-
-# Contributors
-<a href="https://github.com/CloveTwilight3/clovetwilight3/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=CloveTwilight3/clovetwilight3" />
-</a>
