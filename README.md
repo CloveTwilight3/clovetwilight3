@@ -29,7 +29,7 @@
   <!-- Secondary languages -->
   <img src="https://img.shields.io/badge/Rust-%23000000.svg?logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS" />
+  <img src="https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff" alt="CSS" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
   <br/>
   <!-- Frameworks & technologies -->
